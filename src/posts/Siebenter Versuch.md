@@ -2,7 +2,7 @@
 title: Hier kommt der siebente Versuch.
 description: Jetzt ohne CMS als lokaler md-file
 author: Günter Dunz-Wolff
-date: 2022-04-14T16:53:19.804Z
+date: 2022-04-14T16:55:19.804Z
 tags:
   - Buch
 ---
