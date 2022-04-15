@@ -1,14 +1,15 @@
----
 items:
   - text: Home
-    url: "/"
+    url: /
   - text: Heinrich v. Kleist
-    url: "/hvk/"
+    url: /hvk/
   - text: Kleist-Preis
-    url: "/kleist-preis/"
+    url: /kleist-preis/
   - text: Kleist Jahrbuch
-    url: "/kjb/"
+    url: /kjb/
   - text: Veranstaltungen
-    url: "/veranstaltungen/"
+    url: /veranstaltungen/
+  - text: Aufsatzwettbewerb
+    url: /aufsatzwettbewerb/
   - text: Blog
-    url: "/blog"
+    url: /blog
