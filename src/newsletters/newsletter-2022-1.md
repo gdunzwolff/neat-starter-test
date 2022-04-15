@@ -1,10 +1,11 @@
 ---
 title: Erste Ausgabe. 12. April 2022
-description: 
+description: 1. Newsletter
 author: Günter Dunz-Wolff
 date: 2022-04-15T16:53:19.804Z
 tags:
   - Tags
+  - created
 ---
 
 Liebe Kleist-Freundinnen und Freunde, liebe Mitglieder,
@@ -96,6 +97,8 @@ _Burkhard Wolter_
 
 
 ### Erlesenes
+
+![](/static/img/doktorhut.png)
  
 Vom Weiterleben Kleists in der Literatur der Gegenwart:
 In ihrem Lebenswerk _Ein von Schatten begrenzter Raum_ (2021), dessen Erscheinen im Herbst stark beachtet wurde und zuletzt für den Leipziger Buchpreis nominiert war, setzt sich *Emine Sevgi Özdamar*, Kleist-Preisträgerin von 2004, mit ihrem Werdegang als Schauspielerin und Schriftstellerin auseinander. Ihre Reflexionen beziehen immer wieder die Entwicklung von Theater und gesellschaftlicher Öffentlichkeit, von Krieg, Gewalt und Flucht in einer vielfach verflochtenen Geschichte ein. Hatte die Autorin in ihrer Kleist-Preise-Rede davon gesprochen, Heinrich von Kleist zum ersten Mal an der Schauspielschule in Istanbul begegnet zu sein, geht sie nun genauer auf ihre Bekanntschaft mit Kleist ein, den sie durch ihre Mitarbeit an der Homburg-Inszenierung von Matthias Langhoff 1984 in Lyon sehr genau zu studieren beginnt. Während die Figur des Prinzen im Verhältnis zum Staat für sie auch “ein Türke namens Fikret” (S. 574) sein könnte, zwingt Kleists Stück die Beteiligten in Frankreich gleichzeitig zur Auseinandersetzung mit der deutschen Geschichte. Möglicherweise inspiriert durch die Worte “Das Leben nennt der Derwisch eine Reise” notiert Özdamar während der Homburg-Proben auf einem Blatt Papier “DAS LEBEN IST EINE KARAWANSEREI HAT ZWEI TÜREN AUS EINER KAM ICH REIN AUS DER ANDEREN GING ICH RAUS” (S. 606). So lebt Kleists Prinz von Homburg womöglich schon in Özdamars erstem Roman weiter. In jedem Fall ist ihr vielschichtiges, jüngstes Werk Ein von Schatten begrenzter Raum nicht zuletzt ein interessantes Zeugnis der literarischen Kleist-Rezeption der Gegenwart.
