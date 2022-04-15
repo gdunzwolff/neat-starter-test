@@ -1,11 +1,15 @@
-<div class="w-full grid grid-cols-1 lg:grid-cols-2 gap-4 my-8 px-4 lg:mx-0">
+<div class="w-full grid grid-cols-1 lg:grid-cols-2 gap-4 my-8 lg:mx-0">
 
-    {% if quicklinks.links %}
+    {% if aufmacher.heros %}
 
-    {% for item in quicklinks.links %}
+    {% for item in aufmacher.heros %}
     <a href="{{item.url}}" target="_blank" class="p-5 border rounded border-gray-200 hover:border-purple-400">
         <h3>{{item.title}}
             →</h3>
+        <h4>{{item.subTitle}}</h4>
+        {% if item.featuredImage %}
+        <img src="{{item.featuredImage}}" alt="" />
+        {% endif %}
         <p>{{item.desc}}</p>
     </a>
     {% endfor %}

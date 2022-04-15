@@ -9,7 +9,5 @@ items:
     url: /kjb/
   - text: Veranstaltungen
     url: /veranstaltungen/
-  - text: Aufsatzwettbewerb
-    url: /aufsatzwettbewerb/
-  - text: Blog
-    url: /blog
+  - text: Newsletter
+    url: /newsletter
