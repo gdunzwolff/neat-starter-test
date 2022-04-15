@@ -1,19 +1,34 @@
----
 heros:
   - title: Kleist-Preis
     subTitle: Paul Ingendaay verleiht den Kleist-Preis 2022 an Esther Kinsky
-    featuredImage: "/static/img/kleist-preis/Kinsky_Esther_201(c)Heike Steinweg_SV.jpg"
-    url: "/kleist-preis"
-    desc: Der Kleist-Preis des Jahres 2022 geht an die 1956 im Rheinland geborene Schriftstellerin und Übersetzerin Esther Kinsky. Die Verleihung soll am 27. November während einer Matinée im Deutschen Theater erfolgen. Gemäß der Tradition des Kleist-Preises hat der Autor und Kritiker Paul Ingendaay – als von der Jury der Heinrich-von-Kleist-Gesellschaft gewählte Vertrauensperson – in alleiniger Verantwortung Esther Kinsky zur Preisträgerin bestimmt.
+    featuredImage: /static/img/kleist-preis/Kinsky_Esther_201(c)Heike Steinweg_SV.jpg
+    url: /kleist-preis
+    desc: Der Kleist-Preis des Jahres 2022 geht an die 1956 im Rheinland geborene
+      Schriftstellerin und Übersetzerin Esther Kinsky. Die Verleihung soll am
+      27. November während einer Matinée im Deutschen Theater erfolgen. Gemäß
+      der Tradition des Kleist-Preises hat der Autor und Kritiker Paul Ingendaay
+      – als von der Jury der Heinrich-von-Kleist-Gesellschaft gewählte
+      Vertrauensperson – in alleiniger Verantwortung Esther Kinsky zur
+      Preisträgerin bestimmt.
+    body: Der Kleist-Preis des Jahres 2022 geht an die 1956 im Rheinland geborene
+      Schriftstellerin und Übersetzerin **Esther Kinsky**. Die Verleihung soll
+      am **27. November** während einer **Matinée im Deutschen Theater**
+      erfolgen. Gemäß der Tradition des Kleist-Preises hat der Autor und
+      Kritiker **Paul Ingendaay** – als von der Jury der
+      Heinrich-von-Kleist-Gesellschaft gewählte Vertrauensperson – in alleiniger
+      Verantwortung Esther Kinsky zur Preisträgerin bestimmt.
   - title: Newsletter
-    featuredImage: ""
-    url: "https://www.11ty.dev/"
+    featuredImage: /static/img/doktorhut.png
+    url: https://www.11ty.dev/
     desc: Eleventy is a simpler static site generator.
+    body: blah
   - title: Nachwuchs-Aufsatzwettbewerb
-    featuredImage: ""
-    url: "https://github.com/alpinejs/alpine"
+    featuredImage: /static/img/doktorhut.png
+    url: https://github.com/alpinejs/alpine
     desc: A minimal framework for composing JavaScript behavior in your markup.
+    body: Aufsatzwettbewerb
   - title: Kleist Jahrbuch
-    featuredImage: ""
-    url: "https://tailwindcss.com/"
+    featuredImage: /static/img/kleist-portrait-1.jpg
+    url: https://tailwindcss.com/
     desc: A utility-first CSS framework for rapidly building custom designs.
+    body: "**Jahrbuch**"
