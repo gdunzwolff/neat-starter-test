@@ -1,10 +1,14 @@
 ---
 items:
-  - text: Menu One
-    url: "#"
-  - text: Menu Two
-    url: "#"
-  - text: Menu Three
-    url: "#"
+  - text: Home
+    url: "/"
+  - text: Heinrich v. Kleist
+    url: "/hvk/"
+  - text: Kleist-Preis
+    url: "/kleist-preis/"
+  - text: Kleist Jahrbuch
+    url: "/kjb/"
+  - text: Veranstaltungen
+    url: "/veranstaltungen/"
   - text: Blog
     url: "/blog"
