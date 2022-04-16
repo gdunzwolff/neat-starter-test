@@ -4,14 +4,15 @@ heros:
     bild: /static/img/kleist-preis/Kinsky_Esther_201(c)Heike Steinweg_SV.jpg
     bildunterschrift: © Heike Steinweg
     url: /kleist-preise/kleist-preis-2022/
-    text: Der Kleist-Preis des Jahres 2022 geht an die 1956 im Rheinland geborene
+    text:
+      Der Kleist-Preis des Jahres 2022 geht an die 1956 im Rheinland geborene
       Schriftstellerin und Übersetzerin Esther Kinsky. Die Verleihung soll am
       27. November während einer Matinée im Deutschen Theater erfolgen.
   - rubrik: Newsletter
     titel: Erste Ausgabe. 12. April 2022
     bild: /static/img/logos/newsletter-logo.png
-    bildunterschrift:  
-    url:  
+    bildunterschrift:
+    url: /newsletters/newsletter-2022-1/
     text: Liebe Kleist-Freundinnen und Freunde, liebe Mitglieder! In der
       Heinrich-von-Kleist-Gesellschaft stehen die Zeichen auf Neuanfang. Im
       Namen des Vorstands heiße ich Sie herzlich zu unserem Newsletter
@@ -24,9 +25,10 @@ heros:
     titel: Preis für den besten studentischen Aufsatz 2022 über Texte
       Heinrich von Kleists
     bild: /static/img/logos/aufsatzwettbewerb-transparent.png
-    bildunterschrift:  
-    url:  
-    text: Die Heinrich von Kleist-Gesellschaft lobt 2022 erneut einen „Preis für den
+    bildunterschrift:
+    url: /
+    text:
+      Die Heinrich von Kleist-Gesellschaft lobt 2022 erneut einen „Preis für den
       besten studentischen Kleist-Aufsatz“ aus. Eingereicht werden können
       literaturwissenschaftliche Beiträge über Heinrich von Kleists Texte.
       Weitere Einschränkungen in Bezug auf Thema, Text- und Kontextauswahl oder
@@ -37,9 +39,10 @@ heros:
   - rubrik: Kleist-Jahrbuch
     titel: Das Kleist-Jahrbuch 2021 ist erschienen.
     bild: /static/img/logos/kjb-logo-trans.png
-    bildunterschrift:  
-    url:  
-    text: Das Kleist-Jahrbuch 2021 enthält neben Beiträgen zur ›Politik des Rechts
+    bildunterschrift:
+    url: /
+    text:
+      Das Kleist-Jahrbuch 2021 enthält neben Beiträgen zur ›Politik des Rechts
       im Werk Heinrich von Kleists‹ von Bernd Fischer, Antonia Eder, David Pan,
       Bernhard Greiner, Johannes F. Lehmann, Tim Mehigan und Christian Moser
       weitere Abhandlungen von Rüdiger Görner, Andreas Moser, Patrick Fortmann

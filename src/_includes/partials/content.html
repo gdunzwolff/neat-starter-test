@@ -3,7 +3,8 @@
     {% if aufmacher.heros %}
 
     {% for item in aufmacher.heros %}
-    <div class="lg:w-[47%] p-8 mb-6 mr-6 border-x-4 rounded border-gray-200 hover:border-kleistBlauGreen bg-gray-100">
+    <div
+        class="lg:w-[47%] p-8 mb-6 mr-6 border-x-2 rounded border-gray-200 hover:border-kleistBlauGreen hover:bg-gray-200 bg-gray-100">
         <a href="{{item.url}}">
             <h4 class=" text-lg font-sans font-bold uppercase text-kleistBlauGreen">{{item.rubrik}}</h4>
             {% if item.bild %}
