@@ -3,7 +3,7 @@
     {% if aufmacher.heros %}
 
     {% for item in aufmacher.heros %}
-    <div class="lg:w-[47%] p-8 mb-6 mr-6 border-2 rounded border-gray-200 hover:border-purple-400 bg-gray-100">
+    <div class="lg:w-[47%] p-8 mb-6 mr-6 border-x-4 rounded border-gray-200 hover:border-kleistBlauGreen bg-gray-100">
         <a href="{{item.url}}">
             <h4 class=" text-lg font-sans font-bold uppercase text-kleistBlauGreen">{{item.rubrik}}</h4>
             {% if item.bild %}
@@ -14,7 +14,7 @@
             {% endif %}
             <h3 class="mt-4 mb-2 font-serif text-3xl">{{item.titel}}</h3>
             <p class="">{{item.text}}</p>
-            <p class=" mt-2">Weiter lesen →</p>
+            <p class="text-kleistBlauGreen mt-2">Weiter lesen →</p>
         </a>
     </div>
     {% endfor %}
