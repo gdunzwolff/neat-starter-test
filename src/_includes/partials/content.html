@@ -1,17 +1,22 @@
-<div class="w-full grid grid-cols-1 lg:grid-cols-2 gap-4 my-8 lg:mx-0">
+<div class="flex flex-col lg:flex-row flex-wrap gap-0">
 
     {% if aufmacher.heros %}
 
     {% for item in aufmacher.heros %}
-    <a href="{{item.url}}" target="_blank" class="p-5 border rounded border-gray-200 hover:border-purple-400">
-        <h3>{{item.title}}
-            →</h3>
-        <h4>{{item.subTitle}}</h4>
-        {% if item.featuredImage %}
-        <img src="{{item.featuredImage}}" alt="" />
-        {% endif %}
-        <p class=" font-serif text-lg">{{item.desc}}</p>
-    </a>
+    <div class="lg:w-[47%] p-8 mb-6 mr-6 border-2 rounded border-gray-200 hover:border-purple-400 bg-gray-100">
+        <a href="{{item.url}}">
+            <h4 class=" text-lg font-sans font-bold uppercase text-kleistBlauGreen">{{item.rubrik}}</h4>
+            {% if item.bild %}
+            <img class=" mb-2 rounded-lg shadow-md" src="{{item.bild}}" alt="" />
+            {% endif %}
+            {% if item.bildunterschrift %}
+            <p class="text-xs mb-2">{{item.bildunterschrift}}</p>
+            {% endif %}
+            <h3 class="mt-4 mb-2 font-serif text-3xl">{{item.titel}}</h3>
+            <p class="">{{item.text}}</p>
+            <p class=" mt-2">Weiter lesen →</p>
+        </a>
+    </div>
     {% endfor %}
 
     {% endif %}

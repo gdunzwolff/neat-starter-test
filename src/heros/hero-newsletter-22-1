@@ -1,0 +1,18 @@
+---
+rubrik: Newsletter
+titel: Berliner Abendletter. Erste Ausgabe. 12. April 2022
+platzierung: 2
+datum: 2022-04-16
+weiterlesen: Weiter lesen →
+---
+
+<h3 class="text-lg uppercase font-bold">{{rubrik}}</h3>
+<h2 class="text-2xl"><img src="/static/img/doktorhut.png" alt="doktorhut" width="100px"> {{titel}}</h2>
+
+Liebe Kleist-Freundinnen und Freunde, liebe Mitglieder,
+
+In der Heinrich-von-Kleist-Gesellschaft stehen die Zeichen auf Neuanfang: Im Namen des Vorstands heiße ich Sie herzlich zu unserem Newsletter willkommen, der Sie fortan über Neuigkeiten aus unserer Gesellschaft und Aktivitäten ihrer Mitglieder informieren soll! Sie finden hier Ankündigungen, Termine und kleine Beiträge. Wenn Ihnen unsere Rubriken gefallen, freuen wir uns über **weitere Einsendungen und Fundstücke**! Gut vorstellen könnten wir uns zukünftig auch eine Rubrik ‚Theaterbesuche‘, in der wir uns über aktuelle Inszenierungen von Kleist-Texten austauschen.
+ 
+Besonders hinweisen möchte ich auf unsere ersten Gastvorträge aus der internationalen Kleist-Forschung, die am 27. April und 15. Juni jeweils um 19 h online (per Zoom) stattfinden! Wir freuen uns über rege Beteiligung und Diskussion!
+
+#### [{{read-more}}](/newsletters/newsletter-2022-1//)

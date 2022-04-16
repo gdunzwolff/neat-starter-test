@@ -16,6 +16,11 @@ module.exports = function (eleventyConfig) {
       "dd LLL yyyy"
     );
   });
+  // sort by order
+  eleventyConfig.addFilter("sortByOrder", arr => {
+    arr.sort((a, b) => (a.platzierung) > (b.platzierung) ? 1 : -1);
+    return arr;
+  });
 
   // Syntax Highlighting for Code blocks
   eleventyConfig.addPlugin(syntaxHighlight);

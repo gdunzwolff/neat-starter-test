@@ -68,11 +68,16 @@ collections:
             widget: list
             collapsed: false
             fields:
-              - { label: Title, name: title, widget: string }
-              - { label: Image, name: featuredImage, widget: image }
+              - { label: Rubrik, name: rubrik, widget: string }
+              - { label: Titel, name: titel, widget: string }
+              - { label: Bild, name: bild, widget: image }
+              - {
+                  label: Bildunterschrift,
+                  name: bildunterschrift,
+                  widget: string,
+                }
               - { label: URL, name: url, widget: string }
-              - { label: Description, name: desc, widget: string }
-              - { label: Body, name: body, widget: markdown }
+              - { label: Text, name: text, widget: string }
       - label: "Meta Settings"
         name: "settings"
         file: "src/_data/settings.yaml"
