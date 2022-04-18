@@ -1,12 +1,7 @@
 ---
-title: This is my first post
-description: Capitalize on low hanging fruit to identify a ballpark value added
-  activity to beta test. Override the digital divide with additional
-  clickthroughs from DevOps.
-author: Surjith S M
-date: 2020-09-01
-tags:
-  - Tags
+title: Markdown Auszeichnungen am Beispiel
+description: Hier werden verschiedene Markdown-Tags visualisiert.
+date: 2022-04-16
 ---
 # This is a Heading h1
 
@@ -16,7 +11,7 @@ tags:
 
 ## Emphasis
 
-*This text will be italic*\
+*This text will be italic* neue Zeile\
 *This will also be italic*
 
 **This text will be bold**\

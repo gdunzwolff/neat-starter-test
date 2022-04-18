@@ -2,20 +2,42 @@
 {% block content %}
 
 <div class=" flex flex-col">
-  <div class="w-full bg-kleistBlauGreen">
+  <!-- <div class="w-full bg-kleistBlauGreen">
     <div class="container mx-auto">
       <h1 class="ml-4 lg:ml-0 pt-1 pb-1 text-2xl font-bold text-white">AKTUELLES</h1>
     </div>
-  </div>
+  </div> -->
 
   <section>
-    <div class="container mx-auto mt-6 flex flex-col lg:flex-row flex-wrap gap-4">
+    <div class="container mx-auto mt-6 flex flex-col lg:flex-row flex-wrap gap-4 xl:gap-12">
 
       {% if aufmacher.heros %}
 
       {% for item in aufmacher.heros %}
+      {% if loop.first %}
       <div
-        class="w-auto lg:w-[49%] p-6 ml-4 mr-4 mb-6 lg:ml-0 lg:mr-0 border-l-2 border-t-2 rounded border-gray-200 hover:border-kleistBlauGreen hover:bg-gray-200 bg-gray-100">
+        class="w-auto flex flex-col lg:flex-row border-l-2 border-t-2 rounded border-gray-200 hover:border-kleistBlauGreen hover:bg-gray-200 bg-gray-100 p-6 ml-4 mr-4 mb-6 lg:ml-0 lg:mr-2">
+        <div>
+          <a href="{{item.url}}">
+            <h4 class=" text-lg font-sans font-bold uppercase text-kleistBlauGreen">{{item.rubrik}}</h4>
+            {% if item.bild %}
+            <img class="mb-2 rounded-lg shadow-md hover:shadow-lg bg-white" src="{{item.bild}}" alt="" />
+            {% endif %}
+            {% if item.bildunterschrift %}
+            <p class="text-xs mb-2">{{item.bildunterschrift}}</p>
+            {% endif %}
+          </a>
+        </div>
+        <div class="w-auto lg:ml-6 lg:mt-8 mr-6">
+          <h3 class="mt-4 mb-2 font-serif text-3xl">{{item.titel}}</h3>
+          <p class="">{{item.text}}</p>
+          <p class="text-kleistBlauGreen mt-2">Weiter lesen →</p>
+          </a>
+        </div>
+      </div>
+      {% else %}
+      <div
+        class="w-auto lg:w-[49%] xl:w-[48%] p-6 ml-4 mr-4 mb-6 lg:ml-0 lg:mr-0 border-l-2 border-t-2 rounded border-gray-200 hover:border-kleistBlauGreen hover:bg-gray-200 bg-gray-100">
         <a href="{{item.url}}">
           <h4 class=" text-lg font-sans font-bold uppercase text-kleistBlauGreen">{{item.rubrik}}</h4>
           {% if item.bild %}
@@ -29,11 +51,12 @@
           <p class="text-kleistBlauGreen mt-2">Weiter lesen →</p>
         </a>
       </div>
-      {% endfor %}
-
       {% endif %}
 
+      {% endfor %}
     </div>
+
+    {% endif %}
   </section>
 
   {% include "./_includes/partials/hvkg-about.html" %}

@@ -29,6 +29,12 @@ heros:
       Einzige Bedingung ist, dass die Verfasserinnen und Verfasser Studierende
       sind (oder Doktorandinnen und Doktoranden in der Anfangsphase ihrer
       Promotion).
+  - rubrik: Kleist-Nachwuchs-Netzwerk
+    titel: Über das Netzwerk
+    bild: /static/img/logos/KNN-Logo-crop.png
+    bildunterschrift: null
+    url: /
+    text: Das Kleist-Nachwuchs-Netzwerk ist eine Initiative, die sich im November 2018 gegründet hat und die insbesondere junge Kleist-Forscher:innen und -Interessent:innen zusammenbringen möchte. Ziel des Netzwerkes ist es, ein Forum des offenen Austauschs für den Nachwuchs zu initiieren und zu fördern. Dabei soll ein gemeinsamer Verteiler den Informationsaustausch erleichtern.
   - rubrik: Kleist-Jahrbuch
     titel: Das Kleist-Jahrbuch 2021 ist erschienen
     bild: /static/img/logos/kjb-logo-trans.png

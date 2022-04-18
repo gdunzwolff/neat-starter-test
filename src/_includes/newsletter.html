@@ -3,10 +3,37 @@
 {% extends "default.html" %}
 {% block content %}
 
-<div class="container mx-auto p-6 lg:max-w-4xl ">
-    <img class="lg:max-w-3xl" src="/static/img/logos/newsletter-logo.png" alt="logo newsletter">
-    <article class="prose lg:prose-lg my-4">
-        {{ content | safe }}</article>
+<div class="container flex flex-row mx-auto p-6 lg:max-w-4xl ">
+    <div class="flex-col">
+        <img class="lg:max-w-3xl" src="/static/img/logos/newsletter-logo.png" alt="logo newsletter">
+        <article
+            class="prose lg:prose-lg prose-h3:text-kleistBlauGreen prose-h3:pt-6 prose-p:font-serif prose-p:leading-normal prose-img:rounded-xl my-4">
+            {{ content | safe }}</article>
+    </div>
+    <div class=" hidden lg:block mt-12">
+        <aside>
+            <h3 class=" font-bold mb-4">
+                Bislang erschienene Ausgaben
+            </h3>
+            <ul class="list-none hover:list-disc">
+                {% set postslist = collections.newsletter %}
+
+                {% for post in postslist | reverse %}
+                <li class="text-base text-gray-500 hover:text-gray-900 mb-2">
+                    <a href="{{ post.url | url }}">
+                        {% if post.data.title %}
+                        {{ post.data.title }}
+                        {% else %}
+                        Untitled
+                        {% endif %}
+                    </a>
+                </li>
+                {% endfor %}
+            </ul>
+
+        </aside>
+    </div>
+
 </div>
 
 {% endblock %}
