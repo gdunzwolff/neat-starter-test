@@ -1,0 +1,10 @@
+{% extends "default.html" %}
+{% block content %}
+
+<div class="container mx-auto p-6 lg:max-w-4xl ">
+    <img class="lg:max-w-3xl" src="/static/img/logos/newsletter-logo.png" alt="logo newsletter">
+    <article class="prose lg:prose-lg my-4">
+        {{ content | safe }}</article>
+</div>
+
+{% endblock %}

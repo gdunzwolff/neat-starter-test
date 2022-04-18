@@ -22,7 +22,7 @@
   <div class="flex flex-col">
     {% include "./partials/navbar.html" %}
 
-    {{ content | safe }}
+    {% block content %}{% endblock %}
 
     {% include "./partials/footer.html" %}
 

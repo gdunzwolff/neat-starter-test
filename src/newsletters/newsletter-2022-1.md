@@ -1,5 +1,5 @@
 ---
-title: Erste Ausgabe. 12. April 2022
+title: Newsletter
 description: 1. Newsletter
 author: Günter Dunz-Wolff
 date: 2022-04-15T16:53:19.804Z
@@ -8,7 +8,9 @@ tags:
   - created
 ---
 
-Liebe Kleist-Freundinnen und Freunde, liebe Mitglieder,
+## Erste Ausgabe. 12. April 2022
+
+#### Liebe Kleist-Freundinnen und Freunde, liebe Mitglieder,
  
 in der Heinrich-von-Kleist-Gesellschaft stehen die Zeichen auf Neuanfang: Im Namen des Vorstands heiße ich Sie herzlich zu unserem Newsletter willkommen, der Sie fortan über Neuigkeiten aus unserer Gesellschaft und Aktivitäten ihrer Mitglieder informieren soll! Sie finden hier Ankündigungen, Termine und kleine Beiträge. Wenn Ihnen unsere Rubriken gefallen, freuen wir uns über **weitere Einsendungen und Fundstücke**! Gut vorstellen könnten wir uns zukünftig auch eine Rubrik ‚Theaterbesuche‘, in der wir uns über aktuelle Inszenierungen von Kleist-Texten austauschen.
  
