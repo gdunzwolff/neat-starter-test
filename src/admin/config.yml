@@ -19,8 +19,7 @@ collections:
     editor:
       preview: false
     fields:
-      - { label: "Newsletter", name: "title", widget: "string" }
-      - { label: "Ausgabe", name: "subtitle", widget: "string" }
+      - { label: "Ausgabe", name: "title", widget: "string" }
       - { label: "Inhaltsangabe", name: "description", widget: "string" }
       - { label: "Datum", name: "date", widget: "datetime" }
       - { label: "Text", name: "body", widget: "markdown" }

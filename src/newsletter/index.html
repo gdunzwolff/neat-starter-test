@@ -1,3 +1,5 @@
+{% set title = "Newsletter" %}
+
 {% extends "liste.html" %}
 {% block categorie %}
 
@@ -9,8 +11,8 @@
     <article class="my-8">
         <h2 class="font-bold text-3xl text-gray-900 mb-2">
             <a href="{{ post.url | url }}">
-                {% if post.data.subtitle %}
-                {{ post.data.subtitle }}
+                {% if post.data.title %}
+                {{ post.data.title }}
                 {% else %}
                 Untitled
                 {% endif %}

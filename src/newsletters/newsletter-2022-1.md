@@ -1,8 +1,7 @@
 ---
-title: Newsletter
-subtitle: Erste Ausgabe. 12. April 2022
+title: Erste Ausgabe. 12. April 2022
 description: Begrüßung Präsidentin – Kleist-Preis 2022 – Gastvorträge online von Prof. Dr. Ricarda Schmidt und Elaine Chen – Studentischer Aufsatzwettbewerb 2022 Ankündigung – (Mein Kleist) Günter Dunz-Wolff zu Kleists ›Gebet des Zoroaster‹ – (Fundstück) Burkhard Wolter über ersteigerten Wandteller mit Kleistbezug – (Erlesenes) Anne Fleig über Emine Sevgi Özdamara ›Ein von Schatten begrenzter Raum‹ – Kurzvorstellung des neu gewählten Vorstands
-date: 2022-04-15T16:53:19.804Z
+date: 2022-04-18
 ---
 
 ## {{subtitle}}
