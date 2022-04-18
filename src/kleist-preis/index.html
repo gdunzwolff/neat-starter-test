@@ -1,8 +1,8 @@
----
-layout: liste-kleistpreis
----
+{% extends "liste.html" %}
+{% block categorie %}
 
 <section class="mt-15">
+    <h1 class=" text-4xl font-bold mt-6">Liste Kleist-Preis</h1>
     {% set postslist = collections.preis %}
 
     {% for post in postslist | reverse %}
@@ -39,3 +39,5 @@ layout: liste-kleistpreis
     </article>
     {% endfor %}
 </section>
+
+{% endblock %}
