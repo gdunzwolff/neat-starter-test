@@ -1,7 +1,7 @@
 heros:
   - rubrik: Kleist-Preis
     titel: Paul Ingendaay verleiht den Kleist-Preis 2022 an Esther Kinsky
-    bild: /static/img/kleist-preis/Kinsky_Esther_201(c)Heike Steinweg_SV.jpg
+    bild: /static/img/kleist-preis/2022/Kinsky_Esther_201(c)Heike Steinweg_SV.jpg
     bildunterschrift: © Heike Steinweg
     bild2: /static/img/logos/logo-kleist-preis-crop.png
     url: /kleist-preise/kleist-preis-2022/
