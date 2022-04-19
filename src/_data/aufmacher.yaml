@@ -8,12 +8,14 @@ heros:
       Der Kleist-Preis des Jahres 2022 geht an die 1956 im Rheinland geborene
       Schriftstellerin und Übersetzerin Esther Kinsky. Die Verleihung soll am
       27. November während einer Matinée im Deutschen Theater erfolgen.
+    spalten: 1
   - rubrik: Newsletter
     titel: Erste Ausgabe. 12. April 2022
     bild: /static/img/logos/newsletter-logo.png
     bildunterschrift: null
     url: /newsletters/newsletter-2022-1/
     text: Der neue Newsletter – Begrüßung Präsidentin – Kleist-Preis 2022 – Gastvorträge online von Prof. Dr. Ricarda Schmidt und Elaine Chen – Studentischer Aufsatzwettbewerb 2022 Ankündigung – (Mein Kleist) Günter Dunz-Wolff zu Kleists ›Gebet des Zoroaster‹ – (Fundstück) Burkhard Wolter über ersteigerten Wandteller mit Kleistbezug – (Erlesenes) Anne Fleig über Emine Sevgi Özdamara ›Ein von Schatten begrenzter Raum‹ – Kurzvorstellung des neu gewählten Vorstands
+    spalten: 1
   - rubrik: Aufsatzwettbewerb
     titel: Preis für den besten studentischen Aufsatz 2022 über Texte
       Heinrich von Kleists
@@ -29,12 +31,14 @@ heros:
       Einzige Bedingung ist, dass die Verfasserinnen und Verfasser Studierende
       sind (oder Doktorandinnen und Doktoranden in der Anfangsphase ihrer
       Promotion).
+    spalten:
   - rubrik: Kleist-Nachwuchs-Netzwerk
     titel: Über das Netzwerk
-    bild: /static/img/logos/KNN-Logo-crop.png
+    bild: /static/img/logos/KNN-Logo.png
     bildunterschrift: null
     url: /
     text: Das Kleist-Nachwuchs-Netzwerk ist eine Initiative, die sich im November 2018 gegründet hat und die insbesondere junge Kleist-Forscher:innen und -Interessent:innen zusammenbringen möchte. Ziel des Netzwerkes ist es, ein Forum des offenen Austauschs für den Nachwuchs zu initiieren und zu fördern. Dabei soll ein gemeinsamer Verteiler den Informationsaustausch erleichtern.
+    spalten:
   - rubrik: Kleist-Jahrbuch
     titel: Das Kleist-Jahrbuch 2021 ist erschienen
     bild: /static/img/logos/kjb-logo-trans.png
@@ -47,3 +51,4 @@ heros:
       weitere Abhandlungen von Rüdiger Görner, Andreas Moser, Patrick Fortmann
       und Tobias Krüger. Rezensionen wissenschaftlicher Neuerscheinungen
       beschließen den Band.
+    spalten:

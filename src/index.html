@@ -14,7 +14,7 @@
       {% if aufmacher.heros %}
 
       {% for item in aufmacher.heros %}
-      {% if loop.first %}
+      {% if item.spalten == 1 %}
       <div
         class="w-auto flex flex-col lg:flex-row border-l-2 border-t-2 rounded border-gray-200 hover:border-kleistBlauGreen hover:bg-gray-200 bg-gray-100 p-6 ml-4 mr-4 mb-6 lg:ml-0 lg:mr-2">
         <div>
@@ -28,7 +28,7 @@
             {% endif %}
           </a>
         </div>
-        <div class="w-auto lg:ml-6 lg:mt-8 mr-6">
+        <div class="w-auto lg:ml-6 lg:mt-2 mr-6">
           <h3 class="mt-4 mb-2 font-serif text-3xl">{{item.titel}}</h3>
           <p class="">{{item.text}}</p>
           <p class="text-kleistBlauGreen mt-2">Weiter lesen →</p>

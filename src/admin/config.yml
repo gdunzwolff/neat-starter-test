@@ -78,6 +78,12 @@ collections:
                 }
               - { label: URL, name: url, widget: string }
               - { label: Text, name: text, widget: string }
+              - {
+                  label: Spalten,
+                  name: spalten,
+                  widget: string,
+                  required: false,
+                }
       - label: "Meta Settings"
         name: "settings"
         file: "src/_data/settings.yaml"
