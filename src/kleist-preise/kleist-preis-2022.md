@@ -1,12 +1,16 @@
 ---
+layout: kleist-preis
 title: Kleist-Preis 2020 geht an Esther Kinsky
 description: Paul Ingendaay verleiht den Kleist-Preis 2022 an Esther Kinsky
-author: Günter Dunz-Wolff
+year: 2022
 date: 2022-04-15
-tags:
-  - Tags
+genre: nachricht
 ---
+
 ![](/static/img/kinsky_esther_201-c-heike-steinweg_sv.jpg)
+###### © Heike Steinweg
+
+
 
 Der Kleist-Preis des Jahres 2022 geht an die 1956 im Rheinland geborene Schriftstellerin und Übersetzerin **Esther Kinsky**. Die Verleihung soll am **27. November** während einer **Matinée im Deutschen Theater** erfolgen. Gemäß der Tradition des Kleist-Preises hat der Autor und Kritiker **Paul Ingendaay** – als von der Jury der Heinrich-von-Kleist-Gesellschaft gewählte Vertrauensperson – in alleiniger Verantwortung Esther Kinsky zur Preisträgerin bestimmt. Seine Begründung lautet:
 
