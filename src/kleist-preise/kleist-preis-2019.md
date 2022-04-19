@@ -5,7 +5,7 @@ description: In einer feierlichen Veranstaltung im Deutschen Theater Berlin am
   24. November 2019 wurde der Kleist-Preis 2019 an Ilma Rakusa verliehen.
 year: 2019
 date: 2022-03-14
-genre: nachricht
+genre: Nachricht
 ---
 ![](/static/img/logos/logo-kleist-preis-crop.png)
 
