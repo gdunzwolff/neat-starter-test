@@ -1,6 +1,6 @@
 ---
 layout: kleist-preis
-title: "Kleist-Preis 2019 Günter Blamberger: Das Leben neu buchstabieren"
+title: "Kleist-Preis 2019 - Günter Blamberger: Das Leben neu buchstabieren"
 description: Rede zur Verleihung des Kleist-Preises an Ilma Rakusa am
   24. November 2019 im Deutschen Theater Berlin
 year: "2019"
