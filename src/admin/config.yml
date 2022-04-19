@@ -36,11 +36,23 @@ collections:
     editor:
       preview: true
     fields:
-      - { label: "Title", name: "title", widget: "string" }
-      - { label: "Description", name: "description", widget: "string" }
-      - { label: "Author", name: "author", widget: "string" }
-      - { label: "Publish Date", name: "date", widget: "datetime" }
-      - { label: "Body", name: "body", widget: "markdown" }
+      - {
+          label: "Layout",
+          name: "layout",
+          widget: "hidden",
+          default: "kleist-preis",
+        }
+      - { label: "Titel", name: "title", widget: "string" }
+      - { label: "Kurztext", name: "description", widget: "string" }
+      - { label: "Preisjahr (yyyy)", name: "year", widget: "string" }
+      - { label: "Tagesdatum (yyyy-mm-dd)", name: "date", widget: "datetime" }
+      - { label: "Text", name: "body", widget: "markdown" }
+      - widget: select
+        label: "Textsorte"
+        name: "genre"
+        multiple: false
+        create: true
+        options: ["Nachricht", "Rede"]
   - label: "Homepage, Navigation"
     name: "settings"
     editor:
@@ -76,6 +88,7 @@ collections:
                   widget: string,
                   required: false,
                 }
+              - { label: Bild 2, name: bild2, widget: string, required: false }
               - { label: URL, name: url, widget: string }
               - { label: Text, name: text, widget: string }
               - {

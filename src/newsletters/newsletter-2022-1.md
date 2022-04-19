@@ -7,6 +7,7 @@ description: Begrüßung Präsidentin – Kleist-Preis 2022 – Gastvorträge on
   Kleistbezug – (Erlesenes) Anne Fleig über Emine Sevgi Özdamara ›Ein von
   Schatten begrenzter Raum‹ – Kurzvorstellung des neu gewählten Vorstands
 date: 2022-04-18
+layout: newsletter
 ---
 
 ## {{title}}

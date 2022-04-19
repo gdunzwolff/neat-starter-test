@@ -3,6 +3,7 @@ heros:
     titel: Paul Ingendaay verleiht den Kleist-Preis 2022 an Esther Kinsky
     bild: /static/img/kleist-preis/Kinsky_Esther_201(c)Heike Steinweg_SV.jpg
     bildunterschrift: © Heike Steinweg
+    bild2: /static/img/logos/logo-kleist-preis-crop.png
     url: /kleist-preise/kleist-preis-2022/
     text:
       Der Kleist-Preis des Jahres 2022 geht an die 1956 im Rheinland geborene
@@ -13,6 +14,7 @@ heros:
     titel: Erste Ausgabe. 12. April 2022
     bild: /static/img/logos/newsletter-logo.png
     bildunterschrift: null
+    bild2:
     url: /newsletters/newsletter-2022-1/
     text: Der neue HvKG-Newsletter – Begrüßung Präsidentin – Kleist-Preis 2022 – Gastvorträge online von Prof. Dr. Ricarda Schmidt und Elaine Chen – Studentischer Aufsatzwettbewerb 2022 Ankündigung – (Mein Kleist) Günter Dunz-Wolff zu Kleists ›Gebet des Zoroaster‹ – (Fundstück) Burkhard Wolter über ersteigerten Wandteller mit Kleistbezug – (Erlesenes) Anne Fleig über Emine Sevgi Özdamara ›Ein von Schatten begrenzter Raum‹ – Kurzvorstellung des neu gewählten Vorstands
     spalten: 1
@@ -21,6 +23,7 @@ heros:
       Heinrich von Kleists
     bild: /static/img/logos/aufsatzwettbewerb-transparent.png
     bildunterschrift: null
+    bild2:
     url: /
     text:
       Die Heinrich von Kleist-Gesellschaft lobt 2022 erneut einen „Preis für den
@@ -36,6 +39,7 @@ heros:
     titel: Über das Netzwerk
     bild: /static/img/logos/KNN-Logo.png
     bildunterschrift: null
+    bild2:
     url: /
     text: Das Kleist-Nachwuchs-Netzwerk ist eine Initiative, die sich im November 2018 gegründet hat und die insbesondere junge Kleist-Forscher:innen und -Interessent:innen zusammenbringen möchte. Ziel des Netzwerkes ist es, ein Forum des offenen Austauschs für den Nachwuchs zu initiieren und zu fördern. Dabei soll ein gemeinsamer Verteiler den Informationsaustausch erleichtern.
     spalten:
@@ -43,6 +47,7 @@ heros:
     titel: Das Kleist-Jahrbuch 2021 ist erschienen
     bild: /static/img/logos/kjb-logo-trans.png
     bildunterschrift: null
+    bild2:
     url: /
     text:
       Das Kleist-Jahrbuch 2021 enthält neben Beiträgen zur ›Politik des Rechts
