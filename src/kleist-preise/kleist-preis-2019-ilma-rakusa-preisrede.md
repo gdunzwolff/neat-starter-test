@@ -1,0 +1,79 @@
+---
+layout: kleist-preis
+title: Kleist-Preis 2019 - Ilma Rakusa - Preisrede
+description:  
+year: "2019"
+date: 2022-04-19T21:05:05.802Z
+genre: Rede
+---
+Sehr geehrte Jury, sehr geehrter Herr Botschafter, lieber Günter Blamberger, liebe Yoko Tawada, verehrte Damen und Herren, liebe Freundinnen und Freunde,
+
+es war der Sommer vor dem Abitur. Mit meinen Eltern verbrachte ich die Ferien in einem hochgelegenen Walliser Tal, in Arolla, und las wie besessen Kleists "Penthesilea". Zwischen duftenden Zirben, mit Blick auf verschneite Bergspitzen, gab ich mich den muskulösen, schneidenden Sätzen dieses abgründigen Trauerspiels hin, das ich aus eigenen Stücken als Abiturstoff in Deutsch ausgewählt hatte. Penthesilea, nicht das Käthchen von Heilbronn zog mich in Bann, die leidenschaftliche Amazone, die - einem tragischen Missverständnis zufolge - in Raserei ihren Geliebten Achill tötet, zerstückelt und verzehrt. Liebe - ein Unglück. Gefühl - schiere Unberechenbarkeit. ("Und jeder Busen ist, der fühlt, ein Rätsel.") Dazu die Bedingungslosigkeit einer bis zum Zerreissen gespannten Psyche, die zwischen Kampfesmut und gierender Zärtlichkeit einen Ausweg sucht - und erst im Freitod findet.
+
+Doch nicht die Ungeheuerlichkeit des Geschehens faszinierte mich, sondern die Sprache, ihre Weissglut, ihr bitteres Pathos: 
+
+"Lasst ihn den Fuss gestählt, es ist mir recht,\
+Auf diesen Nacken setzen. Wozu auch sollen\
+Zwei Wangen länger, blühn'd wie diese, sich\
+Vom Kot, aus dem sie stammen, unterscheiden?\
+Lasst ihn mit Pferden häuptlings heim mich schleifen,\
+Und diesen Leib hier, frischen Lebens voll,\
+Auf offnem Felde schmachvoll hingeworfen,\
+Den Hunden mag er ihn zur Morgenspeise,\
+Dem scheusslichen Geschlecht der Vögel bieten.\
+Staub lieber, als ein Weib sein, das nicht reizt."
+
+So spricht Penthesilea im Neunten Auftritt mit grimmigem Stolz, nachdem sie - zweifelnd und weicher gestimmt - zu Prothoe geäussert hatte:
+
+"Mir diesen Busen zu zerschmettern, Prothoe!\
+- Ist's nicht, als ob ich eine Leier zürnend\
+Zertreten wollte, weil sie still für sich,\
+Im Zug des Nachtwinds, meinen Namen flüstert?\
+Dem Bären kauert' ich zu Füssen mich,\
+Und streichelte das Panterthier, das mir\
+In solcher Regung nahte, wie ich ihm."
+
+"Extreme Gefühlsschwankungen, krankhafte Empfindlichkeit", notierte ich damals über Penthesilea. Es sind dies auch Züge des Autors Kleist, der nicht weniger bedingungslos seinem Leben und dem seiner Geliebten Henriette ein Ende setzte.
+
+Wenige Jahre später, noch während meines Slawistik-Studiums, stiess ich auf die russische Lyrikerin Marina Zwetajewa (1892-1941), die mich in vielem an Kleist erinnerte: mit ihrem seelischen Zwiespalt; ihrem Absolutheitsanspruch in Sachen Liebe; ihrer "Masslosigkeit in einer Welt nach Mass", ihrer radikalen künstlerischen Kompromisslosigkeit; ihrer Vorliebe für tragische antike Heroinnen (so in ihren Versdramen "Ariadna" und "Phädra"); mit ihrer nicht nur expressiven, sondern exzessiven Interpunktion, die ihre Gedichte, Poeme und Prosatexte zu eigentlichen Partituren macht; mit dem ungestümen Rhythmus ihrer Sätze, ihrer Apodiktik und polemischen Angriffslust; mit ihrer Illusionslosigkeit, die sie im August 1941 - während der Kriegsevakuierung im tatarischen Jelabuga - den Selbstmord wählen liess. Das Leben wurde zu unerträglich, schnurrte auf einen Punkt zusammen: den Wunsch, nicht mehr zu sein. Oder wie es in ihrem Gedicht "Klage des Zorns und der Liebe" vom Mai 1939, kurz nach dem Einmarsch der Hitlertruppen in die Tschechoslowakei, hiess: "Auf diese Welt des Irrsinns / Gibt es nur eins: ich geh."
+
+Zwetajewa hat mich - wie Kleist - in ihren Bann geschlagen und nie mehr losgelassen. In zahlreichen Übersetzungen habe ich ihre intensive Sprachwelt erforscht und nachzubilden versucht. Sie ist meine tägliche Gesprächspartnerin, obwohl wir uns kaum gleichen. Marinotschka, rufe ich ihr ins Jenseits zu, erklär mir bitte diese vertrackte Stelle. Die Antwort kommt nicht umgehend, aber irgendwann doch. Weil im Marina-Land alles mit allem zusammenhängt, auf eine hoch paradoxe, nie gänzlich ausdeutbare Weise. Kontra heisst das Losungswort: Gegen den Strom schwimmen; gegen jede Vereinnahmung, Partei, literarische Strömung, Kirche sein Aussenseitertum behaupten. "In dieser christlichsten aller Welten sind alle Dichter - Juden." Ein Satz, der Zwetajewas ruheloses Leben im revolutionären Russland, im Pariser Exil und danach, unter Stalin, prägte, ohne dass sie in Larmoyanz oder Hader verfiel. Ich stelle mir eine imaginäre Begegnung zwischen Kleist und Zwetajewa vor: provozierend beide, unnachgiebig im Gespräch, schnell und - hinter dem Rapier - sehr verwundbar. Sie hätten sich erkannt und - gemocht.
+
+Ich stünde heute nicht vor Ihnen, wenn ich nicht in ständigem Dialog mit Autoren und deren Werken wäre. Viele leben nicht mehr, aber indem ich sie lese, werden sie gegenwärtig. Begonnen hat dieser Dialog mit Märchen, ungarischen zumal, deren Verfasser nicht immer überliefert sind. Gelernt habe ich daraus, dass oft die Letzten die Ersten werden, dass körperliche Kraft durch Schlauheit kompensiert werden kann, dass nach vielen Fährnissen die Gerechtigkeit siegt, und dass es - um die Welt zu erzählen - eine prägnante und musikalische Sprache braucht. Denn das Ohr pocht auf Rhythmen und Klänge, das Gedächtnis auf Wiederholungen. Grausamkeit, um die Märchen keinen Bogen machen, verlangt auf der sprachlichen Ebene nach Ordnung und Schönheit. Erst so entsteht eine Gegenwelt, auf die Verlass ist. Dass sie auch Trost spenden kann, gehört zu ihrem Zauber.
+
+Märchen also, von den Gebrüdern Grimm und Hauff, aus Russland und dem Fernen Osten. Ich konnte mich an ihnen nicht sattlesen: an den Schicksalen ihrer Däumlinge, schlafenden Prinzessinnen und schlauen Schweinchen. Bis, Jahre später, Dostojewskij in mein Leben hereinbrach, heftig, mit "Schuld und Sühne". Wie es mir bei der Lektüre erging, habe ich in meinem Erinnerungsbuch "Mehr Meer" ausführlich geschildert: die Konfrontation mit einem Doppelmörder, der sein Verbrechen weder eingesteht noch bereut, bis ihn die sanfte Prostituierte Sonja zum Einlenken bewegt. Bergeversetzende Liebe, das gab es also. Und den Sieg der Demut über Grössenwahn. Ich war zehn, als ich mir diesen Weltklasse-Thriller zumutete. Im Lauf der Jahre las ich alles von Dostojewskij. Dreimal den "Idioten", der zu meinen absoluten Lieblingsbüchern gehört. Wegen Fürst Myschkin, dem Epileptiker, der in seiner zarten, zurückhaltenden Art alles um sich herum auf den Kopf stellt. Wegen der leidenschaftlich-exzentrischen Nastassja Filippowna, die vor den Augen ihres geldgierigen Freiers ganze Packen von Rubeln ins Kaminfeuer wirft. Wegen Rogoshin, der - mit Blick auf eine Kopie von Holbeins "Totem Christus" - die schöne Nastassja ins Jenseits befördert. Der Mensch: ein Raubtier oder ein Heiliger? Dostojewskijs fiebrige Prosa urteilt nicht, die polyphone Stimmenvielfalt erzeugt Streit und Kontroverse, auf Rechthaberei ist sie nicht aus. Sage mir einer, wer in den "Brüdern Karamasow" ideologisch den Sieg davonträgt: Iwan Karamasow, der Erzähler der ewig aktuellen "Legende vom Grossinquisitor" (der Mensch braucht nicht Freiheit, sondern Brot und Bevormundung) oder sein jüngster Bruder Aljoscha, der - gläubig und zukunftsgläubig - seine Hoffnung in die junge Generation setzt? Die Figuren agieren, reden, zeigen ihre Schwächen und Stärken. Ohne dass auktorial ein Urteil gefällt würde. Ganz anders als bei Tolstoj, dessen didaktisches Naturell mich stets irritierte. (Tolstoj-Verehrer wie Nabokov nehmen dagegen an Dostojewskijs hysterischer Figurenwelt Anstoss.)
+
+Unendlich viel verdanke ich der Bekanntschaft mit dem Werk des serbisch-ungarisch-jüdischen Autors Danilo Kiš (1935-1989). Noch bevor ich seine Romane "Sanduhr" und "Ein Grabmal für Boris Dawidowitsch" übersetzte, entdeckte ich "Garten, Asche", ein bildstarkes, poetisches Buch über eine Kindheit während des Kriegs, über die Deportation des Vaters nach Auschwitz, über Verlust und den Versuch, mit zaghaften  Versen dem Verhängnis etwas entgegenzusetzen. Schon mit diesem ersten Band seiner autobiographischen Trilogie, ironisch "Familienzirkus" genannt, hat sich Kiš in die Weltliteratur eingeschrieben. Und wie er in "Ein Grabmal für Boris Dawidowitsch" den Opfern des Stalinismus ein Denkmal setzte, hat ihm keiner nachgemacht. "Eine Kunst, niederschmetternder als jede Statistik", schrieb Joseph Brodsky in seinem Vorwort zur englischen Ausgabe. Einer, der es wissen musste.
+
+Auch Brodsky, der mit 55 Jahren viel zu jung starb, gehört zu meinen Dialogpartnern. Wir kannten uns, ich hatte ihn in Leningrad in jenen berühmten "anderthalb Zimmern" besucht, indem ich durch einen Schrank schlüpfte. Später sind wir uns mehrfach in Zürich, Graz und Venedig begegnet. In Zürich schenkte ich ihm meine portable russische Schreibmaschine, in die er gleich ein Papier einspannte, um mir eines seiner Lieblingsgedichte von Puschkin aufzuschreiben. Brodskys Gedichte, elegisch und streng, anspielungsreich und unendlich kunstvoll gereimt, begleiten mich ständig. Darunter seine "Grosse Elegie an John Donne" (1963), die in einer seitenlangen, litaneienhaften Aufzählung vorführt, wie Gegenstände und Bäume, Engel und Gottvater, ja selbst die Sprache und das Unglück in Schlaf versinken. Die Suggestion der Reihung, des monotonen Singsangs, ist unwiderstehlich. Und plötzlich erscheint die Schöpfung als eine zeitlos-friedliche Nature-morte im Idealzustand stummer Egalität.
+
+Ich setze meine Hommage an Dialogpartner - denn um eine solche handelt es sich -noch ein wenig fort, indem ich Inger Christensens Langgedicht "Alphabet" (1981) erwähne, eine einzigartige Schöpfungsgeschichte, aufgebaut nach dem Fibonacci-Prinzip, das zu einem raschen Anwachsen der Begriffe und Verszeilen führte. So hat Christensen ihren Entwurf beim Buchstaben N beendet, womit implizit angedeutet wird, dass Totalität nicht zu haben ist. Aber was da steht, ist erschütternd in seinem Nebeneinander. Und wieder ist es der Sound, der das Heterogene verbindet:
+
+"1  die Aprikosenbäume gibt es, die aprikosenbäume gibt es. //\
+2  die farne gibt es; und brombeeren, brombeeren\
+und brom gibt es; und den wasserstoff, den wasserstoff //\
+3  die zikaden gibt es; wegwarte, chrom\
+und zitronenbäume gibt es; die zikaden gibt es;\
+die zikaden, zeder, zypresse, cerebellum..."
+
+Das Poem gibt eindrücklich zu bedenken, was wir an der Schöpfung haben und zu schützen haben, es nennt aber auch das, was diese Schöpfung zerstören kann. Ohne mahnend erhobenen Zeigefinger, ohne Pathos, vielmehr mit jener ruhigen Insistenz, die Respekt und Verantwortungsbewusstsein vereint. Christensens "Alphabet" ist kein lyrisches Nischenprodukt, es verhandelt die Welt, wie wir sie wahrnehmen sollten, damit sie uns erhalten bleibt.
+
+Mein letzter Gruss gilt Friederike Mayröcker, die mit über neunzig Jahren in Wien täglich an der Ausweitung und Vertiefung ihres poetischen Universums arbeitet. Wenn die Formel "Leben gleich Schreiben" auf jemanden zutrifft, dann auf diese obsessive Dichterin, die noch den engsten Wirklichkeitsausschnitt in eine vielfarbig und vielstimmig vibrierende Welt der "correspondances" verwandelt, im Zeichen des Dialogs und grossherzigen Austauschs. Anrufung, Zitat: Mayröckers Werk ist voll davon, denn es wendet sich an Tote und Lebende, Freunde und Kollegen. Lese ich es, bin ich mitgemeint und Teil dieser einzigartigen Community.
+
+Dialog also. Ich begreife mein eigenes Schreiben als Fortschreiben und ständige Zwiesprache. Einige Namen habe ich Ihnen verraten, doch sind es bei weitem nicht alle. Und die Zwiesprache betrifft selbstredend nicht nur den Schreibprozess. Ist ein Text entstanden, ist er auf Sie - die Leserinnen und Leser - angewiesen, um sich zu entfalten.
+
+Freilich geht es mir nicht um die schiere Zahl meiner Leser, Zahlen sind abstrakt. Sondern um eine Berührung im Sinne von Martin Bubers "Ich und Du". Berühren und sich berühren lassen, hält uns lebendig, sprengt die Kapsel der Einsamkeit (mit der ich mich im übrigen ausgiebig beschäftigt habe). Ich frage mich, ob wir Berührung heutzutage ernst genug nehmen, in einer Zeit totaler Kommunikation, die sich aber mehr und mehr virtuell abspielt. Ob wir gewillt sind, dem andern wirklich zuzuhören, statt permanente Selbstdarstellung zu betreiben. Berührung kann weh tun, Zuhören kann anstrengend sein. Küsse sind nicht selten Bisse, wie es in Kleists "Penthesilea" heisst. Aber ohne Berührung drohen wir zu erstarren.
+
+Meine Biographie hat es mit sich gebracht, dass ich schon als Kind mit vielen Menschen, Orten und Sprachen in Berührung kam. Das Neue und Fremde machte mir keine Angst, meine Eltern erzogen mich zur Offenheit. Ich will nicht leugnen, dass die Kofferkindheit mitunter mühselig war, doch schenkte sie mir vier Sprachen und eine Menge Erfahrung. Und hielt meine Neugier wach.
+
+Im Moment erleben wir in Europa eine wachsende Berührungsangst gegenüber dem Andern und Fremden. Viele befürchten, der Kontinent werde von Migranten überrollt und sei dabei, seine sogenannte abendländisch-christliche Identität aufzugeben. Die Lage ist, zugegeben, alles andere als einfach. Doch Abwehr und Abschottung halte ich nicht nur für unmenschlich, sondern für gefährlich. Zumal die Argumente, mit denen sie begründet werden, aus der Instrumentenkiste des Nationalismus und Rassismus stammen. Wohin diese in den letzten hundert Jahren geführt haben, wissen wir zur Genüge. Und vergessen wir nicht, dass zwischen 1990 und 1995 auf dem Territorium des ehemaligen Jugoslawien ein grausamer Krieg wütete, der fast 120'000 Opfer forderte, davon allein in Bosnien 97'000. Zu seinen Hauptverursachern gehörte ein entfesselter Nationalismus, der auf "ethnisch reine" Gebiete pochte. Die Folgen dieses Kriegs sind bei weitem nicht ausgestanden, Bosnien - durch den Dayton-Vertrag notdürftig befriedet - ist ein "failed state", dem - wer nur kann - den Rücken kehrt. An dieser Stelle muss ich auf Danilo Kiš zurückkommen, der schon in den frühen siebziger Jahren vor dem nationalistischen Wahnsinn gewarnt hatte, ohne dass man ihm Gehör schenkte. (Er starb kurz vor Ausbruch des Kriegs in Paris an Lungenkrebs.) Nationalismus, so Kiš, sei vor allem *Paranoia*, kollektive und individuelle Paranoia, ausserdem eine Ideologie der Banalität und des Kitsches. Seinem Wesen nach totalitär und demagogisch, reaktionär und regressiv, sei er die letzte Ideologie, "die sich *an das Volk* wendet". Eine durch und durch negative Erscheinung, denn Nationalismus "lebt in der Negation und von der Negation".
+
+Mit dieser vernichtenden Kritik behielt Kiš nur allzu recht. Nehmen wir sie uns zu Herzen.
+
+Noch ist es nicht zu spät, gefährliche Tendenzen auch in Deutschland, Frankreich oder Italien abzuwenden. Doch die Zeit tickt. Und wir müssen uns darauf besinnen, dass Europa nur bestehen kann, wenn es Einheit demonstriert statt Zwietracht, wenn es auf Dialog setzt statt auf Abschottung. Ich sage das als überzeugte Europäerin und als eine Wortarbeiterin, für die Poetik - um einmal mehr Danilo Kiš zu zitieren - Po-ethik meint.
+
+Der Schluss aber gehört dem Dank. Ich danke allen, die mir mit diesem Preis ihr Vertrauen entgegenbringen und die meine Freude teilen: den Juroren und Jurorinnen, meiner Laudatorin Yoko Tawada und Günter Blamberger, dem Vorsitzenden der Kleist-Gesellschaft. Ich danke Bernd Isele vom Deutschen Theater, den Schauspielern Maren Eggert und Alexander Khuon und den Musikern Philipp Beckert und Erez Ofer, die mir meinen Musikwunsch so hingebungsvoll erfüllt haben. Ich danke dem Schweizerischen Botschafter in Berlin Paul Seger, meiner Verlegerin Annette Knoch und meinen hier so zahlreich versammelten Freunden und Freundinnen, Lesern und Leserinnen, die teilweise von weit angereist sind.
+
+Danke, merci, thank you, grazie, spasibo, köszönöm, hvala, arigato!
+
+                                                                     *Ilma Rakusa*
