@@ -1,5 +1,5 @@
 ---
-layout: kleist-preis
+layout: kleist-preis-md
 title: "Preisrede: Christoph Ransmayr - Kohlhaas"
 description: Rede zur Verleihung des Heinrich von Kleist Preises. Berlin, am 18.
   November 2018.

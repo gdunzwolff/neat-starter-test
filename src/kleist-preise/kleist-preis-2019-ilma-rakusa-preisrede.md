@@ -1,5 +1,5 @@
 ---
-layout: kleist-preis
+layout: kleist-preis-md
 title: "Preisrede: Ilma Rakusa"
 description: Rede zur Verleihung des Heinrich von Kleist Preises. Berlin, am 24.
   November 2018.

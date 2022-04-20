@@ -1,5 +1,5 @@
 ---
-layout: kleist-preis
+layout: kleist-preis-md
 title: Der Kleist-Preis 2022 geht an Esther Kinsky
 description: Paul Ingendaay verleiht den Kleist-Preis 2022 an Esther Kinsky
 year: 2022

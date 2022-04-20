@@ -1,5 +1,5 @@
 ---
-layout: kleist-preis
+layout: kleist-preis-md
 title: "Laudatio: László Földényi - Im Banne des weißen Fleckes"
 description: Laudatio anlässlich der Verleihung des Kleist-Preises an Christoph Ransmayr.
 year: "2018"

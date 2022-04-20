@@ -1,5 +1,5 @@
 ---
-layout: kleist-preis
+layout: kleist-preis-md
 title: "Laudatio: Yoko Tawada"
 description: Laudatio anlässlich der Verleihung des Kleist-Preises an Ilma Rakusa.
 year: "2019"

@@ -1,11 +1,11 @@
 ---
-layout: kleist-preis
+layout: kleist-preis-md
 title: "Laudatio: Daniela Strigl – Glückliches Blei, tröstliches Ei.  Ein
   Setzkasten für Clemens Setz"
 description: "  Laudatio zur Verleihung des Kleist-Preises 2020 am 21.11.2021 im
   Deutschen Theater Berlin"
 year: "2020"
-date: 2022-04-20T16:34:51.012Z
+date: 2020-04-20T16:34:51.012Z
 genre: Rede
 ---
 „– Und da hinten schließlich das Spätwerk, sagte der junge Mann und deutete auf ein langes Regal voll dunkler, teilweise zerfallener Bücher. Der ganze späte Setz. Der *Warteschlangen-Zyklus*. *Enkel und Asteroiden*. Alles aus seiner Nach-Meer-Periode.“ So beginnt Clemens Setz’ Erzählung „Das Herzstück der Sammlung“; dieses ist der greise Dichter selbst, der hinter verschlossenen Türen im Gitterbett gehalten wird und sich an einem meeresstrandähnlichen Zimmerbrunnen ergötzt – offenbar markiert die Entdeckung des Meeres eine Zäsur in seinem Œuvre. Als Clemens Jot Setz – oder wie man in Österreich sagt: Clemens J. Setz – die Erzählung schreibt, ist er 28 und hat naturgemäß nur ein Frühwerk vorzuweisen, seinen Debutroman „Söhne und Planeten“ etwa, dessen Titel in „Enkel und Asteroiden“ nachhallt. Der Hang zur Größe ist jedoch ebenso unverkennbar wie die Gabe der Selbstironie. Hier hat einer von Anfang an das Lebenswerk im Blick und mißtraut zugleich dem Ruhm. Wie der Held seines Romans „Die Frequenzen“, der über die Bücher der Schriftsteller meint: „Solange sie noch gedruckt werden, glaubt sich der Verfasser unsterblich. Wenn er tot ist, weiß er es besser.“ „Was liegt am Ruhm, da man den Nachruhm nicht erleben kann?“ fragte Marie von Ebner-Eschenbach. Kleist sah das bekanntlich anders. „Ich will hinein und muß hinein, u. sollts auch in der Quere sein“, schrieb er – quer – in das Poesiealbum seiner Schwester.

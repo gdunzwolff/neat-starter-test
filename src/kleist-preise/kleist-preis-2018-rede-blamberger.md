@@ -1,5 +1,5 @@
 ---
-layout: kleist-preis
+layout: kleist-preis-md
 title: "Günter Blamberger – Überlebenskunst"
 description: Rede zur Verleihung des Kleist-Preises an Christoph Ransmayr am 18.
   November 2018 im Deutschen Theater Berlin.

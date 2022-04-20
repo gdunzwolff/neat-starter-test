@@ -1,5 +1,5 @@
 ---
-layout: kleist-preis
+layout: kleist-preis-md
 title: Daniela Strigl verlieh den Kleist-Preis 2020 an Clemens J. Setz
 description: Am 21. November 2021 wurde während einer Matinée im Deutschen
   Theater Berlin der Kleist-Preis 2020 an den 1982 in Graz geborenen

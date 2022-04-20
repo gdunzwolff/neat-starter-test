@@ -1,5 +1,5 @@
 ---
-layout: kleist-preis
+layout: kleist-preis-md
 title: Yoko Tawada verlieh den Kleist-Preis 2019 an Ilma Rakusa
 description: In einer feierlichen Veranstaltung im Deutschen Theater Berlin am
   24. November 2019 wurde der Kleist-Preis 2019 an Ilma Rakusa verliehen.

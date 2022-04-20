@@ -1,16 +1,14 @@
 ---
-layout: kleist-preis
+layout: kleist-preis-md
 title: "Preisrede: Clemens J. Setz – SELBSTLOSIGKEIT"
 description: Rede zum Kleist-Preis 2020
 year: "2020"
-date: 2022-04-20T16:38:09.002Z
+date: 2020-04-20T16:38:09.002Z
 genre: Rede
 ---
 Ein Mal in meinem Leben wurde ich Augenzeuge eines Mysteriums, dessen Erforschung mir gewiss nie ganz gelingen wird, aber das meinem Leben, wie ich hoffe, so etwas wie eine dauerhafte Forschungsrichtung verleihen könnte. Die Szene spielt auf einem Bahnsteig, in Deutschland. Ich glaube, es war in Braunschweig, und das Jahr war 2015. Eine Frau wartete mit ihren zwei kleinen Kindern auf den Zug. Da fiel einem Teenager, nach einer ungeschickten Drehbewegung, der obere Teil seines offenbar nur aus lose miteinander verschnürten Teilen bestehenden Rucksacks auf die Gleise hinunter. In derselben Sekunde ließ die Frau die Hände ihrer beiden kleinen Kinder los und lief die paar Schritte in Richtung Bahnsteig. Der junge Mann blickte nur ratlos zu den Gleisen und befand sich allem Anschein nach überhaupt nicht in Gefahr, etwa kopflos hinterher zu springen oder sonst irgendeine leichtsinnige Aktion zu wagen. Die Frau fasste ihn trotzdem bei den Schultern und zog ihn sanft vom Abgrund fort. So weit, so gut. Eine beherzte und gute Geste. Aber nun brachte sich die Frau, während ihre beiden ankerlos gewordenen Kinder ihr mit tapsigen Schritten nachwackelten (was mich wiederum dazu brachte, ihnen nachzugehen), in eine seitliche, wie im Damensattel sitzende Haltung am Rande des Bahnsteigs und angelte mit einem weit ausgestreckten Bein nach dem gefallenen Gegenstand auf dem Gleisbett. Es gelang ihr, das Ding zu bergen und dem Jüngling zurückzugeben. Der bedankte sich. Die Frau empfing ihre Kinder, die bis zu ihr an den Rand des Bahnsteigs gegangen waren. 
 
 Diese Szene beschäftigte mich so sehr, dass ich während der anschließenden Fahrt im Zug von dem durch sie vermittelten Gefühl der Beklemmung ganz enge Bronchien bekam. Bis heute nage ich gedanklich oft an diesem Rätsel herum, wie es möglich sein konnte, dass eine Mutter die Hände ihrer beiden auf einem Bahnsteig stehenden Kinder *losließ* und wie ferngesteuert von ihnen fortging, nur um einen vollkommen irrelevanten Gegenstand, der überdies noch einem Fremden gehörte, vorm Überfahrenwerden zu retten. 
-
- 
 
 Nun hätte ich es mir freilich leicht machen und über dieses Thema nie irgendetwas schreiben können. Es hätte durchaus ein Mysterium im Hintergrund bleiben dürfen, ungelöst bis zum Ende, eben wie die meisten Mysterien. Aber in der Beschäftigung mit dem Werk Heinrich von Kleists, das ich in der Vorbereitung auf den Tag der Preisverleihung unternahm, fiel mir auf, dass von allen Werken deutscher Sprache vor allem seines das geeignete, ja vielleicht das *einzige* zu sein scheint, das sich, wenn auch in einer eher subkutanen, aber dafür doch erstaunlich dauerhaften und stellenweise recht besessenen Weise mit eben diesem Rätsel, oder mit *dieser Art von* Rätsel auseinandergesetzt hat, und so kann ich es mir erlauben, die Spielarten dieser menschlichen Ungeheuerlichkeit sozusagen in Kleists Schirmherrschaft durchzukosten und aufzuzählen. 
 
