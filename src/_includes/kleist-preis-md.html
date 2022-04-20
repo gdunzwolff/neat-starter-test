@@ -3,16 +3,13 @@
 {% extends "default.html" %}
 {% block content %}
 
-<div class="container flex flex-row mx-auto gap-32 ">
+<div class="container flex flex-col-reverse lg:flex-row mx-auto px-6 lg:gap-32 ">
     <div
         class="prose lg:prose-xl prose-h3:text-kleistBlauGreen prose-h3:pt-6 prose-p:font-serif prose-p:leading-normal prose-img:rounded-xl my-12">
         {{ content | safe }}
     </div>
 
-    <div class="mt-8 min-w-[250px] max-w-[250px]">
-        <img class="mt-8 mb-12 ml-[-.5em]" src="/static/img/logos/logo-kleist-preis-crop.png" alt="logo kleist-preis">
-        {% include "../_includes/partials/navigationpreis.html" %}
-    </div>
+    {% include "../_includes/partials/navigationpreis.html" %}
 
 </div>
 

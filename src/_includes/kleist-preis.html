@@ -3,15 +3,11 @@
 {% extends "default.html" %}
 {% block content %}
 
-<div class="container flex flex-row mx-auto gap-32 ">
-    <div class="">
-        {{ content | safe }}
-    </div>
+<div class="container flex flex-col-reverse lg:flex-row mx-auto px-6 lg:px-0 lg:gap-32">
 
-    <div class="mt-8 min-w-[250px] max-w-[250px]">
-        <img class="mt-8 mb-12 ml-[-.5em]" src="/static/img/logos/logo-kleist-preis-crop.png" alt="logo kleist-preis">
-        {% include "../_includes/partials/navigationpreis.html" %}
-    </div>
+    {{ content | safe }}
+
+    {% include "../_includes/partials/navigationpreis.html" %}
 
 </div>
 
