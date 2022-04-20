@@ -1,9 +1,9 @@
 ---
 layout: kleist-preis
-title: Kleist-Preis 2019 - Yoko Tawada - Laudatio für Ilma Rakusa
-description:  
+title: "Laudatio: Yoko Tawada"
+description: Laudatio anlässlich der Verleihung des Kleist-Preises an Ilma Rakusa.
 year: "2019"
-date: 2022-04-19T21:02:46.074Z
+date: 2019-04-19T21:02:46.074Z
 genre: Rede
 ---
 Anfang der Neunziger Jahre begegnete ich Ilma Rakusa zum ersten Mal in einem der schönsten Dreiländerecke der Welt: in Graz. Es waren nichts weiter als Weinblätter, die eine germanische Sprache von einer slawischen und einer finnougrischen Sprache trennten. Trennen? Vielleicht sollte man besser sagen: verbinden. Außerdem sollte ich lieber "Dreispracheneck" sagen, denn im Wort „Dreiländereck“ ist das Wort „Länder“ zu viel. Aber selbst das Wort "Dreispracheneck" ist nicht ausreichend. Wieso nur drei? Alle Menschen bringen eine oder mehrere zusätzliche Sprachen mit sich, vermischen zwei Sprachen miteinander und schaffen eine dritte Sprache. Oder sie schweigen mehrsprachig und träumen in den Sprachen, die sie nie gelernt haben. Die Sprachen sind unzählbar.

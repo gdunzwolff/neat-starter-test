@@ -2,6 +2,7 @@ const yaml = require("js-yaml");
 const { DateTime } = require("luxon");
 const syntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
 const htmlmin = require("html-minifier");
+const _ = require("lodash");
 
 module.exports = function (eleventyConfig) {
   // Disable automatic use of your .gitignore
@@ -9,6 +10,15 @@ module.exports = function (eleventyConfig) {
 
   // Merge data instead of overriding
   eleventyConfig.setDataDeepMerge(true);
+
+  // group all posts by year, transform the object into an array and reverse the result (descending order). This method can be used to group posts by any other property, e.g. category. (https://darekkay.com/blog/eleventy-group-posts-by-year/)
+  eleventyConfig.addCollection("postsByYear", (collection) => {
+    return _.chain(collection.getAllSorted())
+      .groupBy((post) => post.date.getFullYear())
+      .toPairs()
+      .reverse()
+      .value();
+  });
 
   // human readable date
   eleventyConfig.addFilter("readableDate", (dateObj) => {

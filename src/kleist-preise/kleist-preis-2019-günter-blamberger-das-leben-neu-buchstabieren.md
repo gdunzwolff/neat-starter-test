@@ -1,10 +1,10 @@
 ---
 layout: kleist-preis
-title: "Kleist-Preis 2019 - Günter Blamberger: Das Leben neu buchstabieren"
+title: "Günter Blamberger: Das Leben neu buchstabieren"
 description: Rede zur Verleihung des Kleist-Preises an Ilma Rakusa am
-  24. November 2019 im Deutschen Theater Berlin
+  24. November 2019 im Deutschen Theater Berlin.
 year: "2019"
-date: 2022-04-19T20:58:45.643Z
+date: 2019-04-19T20:58:45.643Z
 genre: Rede
 ---
 Sehr verehrter Herr Botschafter Dr. Seger, sehr verehrte Frau Dr. Zeddies, Frau Bückmann und Frau Knoch, liebe Mitglieder und Freunde der Heinrich-von-Kleist-Gesellschaft, lieber Herr Khuon, lieber Herr Isele, liebe Yoko Tawada, liebe und heute zu ehrende Ilma Rakusa,

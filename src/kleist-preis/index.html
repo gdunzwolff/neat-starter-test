@@ -1,42 +1,35 @@
 {% extends "liste.html" %}
 {% block categorie %}
 
-<section class="mt-15">
-    <h1 class=" text-4xl font-bold mt-6">Liste Kleist-Preis</h1>
+{% include "../_includes/partials/navigationpreis.html" %}
+
+<section class="my-16">
+    <img style="margin-left:-1em" src="/static/img/logos/logo-kleist-preis-crop.png" alt="logo kleist-preis">
+    <h1 class=" text-3xl text-gray-800 font-bold mt-6">Reden und Berichte anlässlich der <br />Kleist-Preis Verleihungen
+    </h1>
     {% set postslist = collections.preis %}
 
-    {% for post in postslist | reverse %}
-    <article class="my-8">
-        <h2 class="font-bold text-3xl text-gray-900 mb-2">
-            <a href="{{ post.url | url }}">
-                {% if post.data.title %}
-                {{ post.data.title }}
-                {% else %}
-                Untitled
-                {% endif %}
-            </a>
-        </h2>
-        <!-- <p class="text-base leading-6 text-gray-500 mb-3">
-            <time>
-                {{ post.date | readableDate }}
-                by
-                <a>{{ post.data.author }}</a>
+    {% for year, yearPosts in collections.postsByYear %}
+    <h2 class="my-6 font-bold text-3xl text-kleistBlauGreen mb-2">Kleist-Preis {{ year }}</h2>
+    <ul>
+        {% for post in yearPosts %}
+        {%if post.data.tags == "preis"%}
+        <li>
+            <h3 class="font-bold text-xl text-gray-800 mb-1"><a href="{{ post.url | url }}">{{ post.data.title }}</a>
+            </h3>
+            {% if post.data.description %}
+            <p class="text-lg text-gray-500 mb-3">
+                {{ post.data.description }} <span><a href="{{ post.url | url }}"
+                        class="ml-4 text-kleistBlauGreen font-bold text-sm">
+                        Weiter lesen  →
+                    </a></span>
+            </p>
+            {% endif %}
+        </li>
 
-            </time>
-        </p> -->
-        {% if post.data.description %}
-        <p class="text-lg text-gray-500 mb-3">
-            {{ post.data.description }}
-        </p>
         {% endif %}
-
-        <p>
-            <a href="{{ post.url | url }}" class="text-indigo-500 font-bold text-lg">
-                Weiter lesen →
-            </a>
-        </p>
-
-    </article>
+        {% endfor %}
+    </ul>
     {% endfor %}
 </section>
 

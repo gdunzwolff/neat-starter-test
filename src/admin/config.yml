@@ -53,6 +53,15 @@ collections:
         multiple: false
         create: true
         options: ["Nachricht", "Rede"]
+  - label: "Kleistpreis Einzelseiten"
+    name: "preiseinzelseiten"
+    files:
+      - label: "Preisträger:innen"
+        name: "preistraeger"
+        file: "src/kleist-preis-einzelseiten/kleist-preistraegerinnen.md"
+        fields:
+          - { label: Layout, name: layout, widget: string }
+          - { label: "Text", name: "body", widget: "markdown" }
   - label: "Homepage, Navigation"
     name: "settings"
     editor:
