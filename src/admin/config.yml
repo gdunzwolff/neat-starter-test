@@ -53,7 +53,7 @@ collections:
         multiple: false
         create: true
         options: ["Nachricht", "Rede"]
-  - label: "Kleistpreis Einzelseiten"
+  - label: "Kleistpreis statische Seiten"
     name: "preiseinzelseiten"
     files:
       - label: "Preisträger:innen"
@@ -61,6 +61,21 @@ collections:
         file: "src/kleist-preis-einzelseiten/kleist-preistraegerinnen.md"
         fields:
           - { label: Layout, name: layout, widget: string }
+          - { label: Url, name: permalink, widget: string }
+          - { label: "Text", name: "body", widget: "markdown" }
+      - label: "Preis-Statut"
+        name: "statut"
+        file: "src/kleist-preis-einzelseiten/statut-kleist-preis.md"
+        fields:
+          - { label: Layout, name: layout, widget: string }
+          - { label: Url, name: permalink, widget: string }
+          - { label: "Text", name: "body", widget: "markdown" }
+      - label: "Preis-Geschichte"
+        name: "preisgeschichte"
+        file: "src/kleist-preis-einzelseiten/geschichte-kleist-preis.md"
+        fields:
+          - { label: Layout, name: layout, widget: string }
+          - { label: Url, name: permalink, widget: string }
           - { label: "Text", name: "body", widget: "markdown" }
   - label: "Homepage, Navigation"
     name: "settings"

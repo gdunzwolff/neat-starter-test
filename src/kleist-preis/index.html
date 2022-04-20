@@ -1,21 +1,22 @@
-{% extends "liste.html" %}
-{% block categorie %}
+---
+layout: kleist-preis
+---
+{% set title = "Kleist-Preis" %}
 
-{% include "../_includes/partials/navigationpreis.html" %}
-
-<section class="my-16">
-    <img style="margin-left:-1em" src="/static/img/logos/logo-kleist-preis-crop.png" alt="logo kleist-preis">
-    <h1 class=" text-3xl text-gray-800 font-bold mt-6">Reden und Berichte anlässlich der <br />Kleist-Preis Verleihungen
+<div class="mt-12">
+    <h1 class=" text-4xl text-gray-800 font-bold">Reden und Berichte anlässlich der
+        <br />Kleist-Preis Verleihungen
     </h1>
     {% set postslist = collections.preis %}
 
     {% for year, yearPosts in collections.postsByYear %}
-    <h2 class="my-6 font-bold text-3xl text-kleistBlauGreen mb-2">Kleist-Preis {{ year }}</h2>
+    <h2 class="mt-16 font-bold text-3xl text-kleistBlauGreen mb-2">Kleist-Preis {{ year }}</h2>
     <ul>
         {% for post in yearPosts %}
         {%if post.data.tags == "preis"%}
         <li>
-            <h3 class="font-bold text-xl text-gray-800 mb-1"><a href="{{ post.url | url }}">{{ post.data.title }}</a>
+            <h3 class="font-bold text-xl text-gray-800 mb-1"><a href="{{ post.url | url }}">{{ post.data.title
+                    }}</a>
             </h3>
             {% if post.data.description %}
             <p class="text-lg text-gray-500 mb-3">
@@ -31,6 +32,4 @@
         {% endfor %}
     </ul>
     {% endfor %}
-</section>
-
-{% endblock %}
+</div>

@@ -1,14 +1,14 @@
-<div class=" w-full">
+<div class="container w-full">
     {% if navigationpreis.items %}
 
-    <ul class="pt-6 flex flex-row lg:pt-2 lg:flex-row justify-start flex-1 lg:items-center">
+    <ul class="flex flex-col">
         {% for item in navigationpreis.items %}
-        <li class="nav__item mr-3">
+        <li class="nav__item mb-4">
             {% if page.url == item.url %}
-            <a class="text-ml inline-block border-r-2 border-b-2 border-kleistBlauGreen text-gray-500 no-underline hover:text-kleistBlauGreen py-2 px-2 pl-0"
+            <a class="text-ml inline-block border-l-4 border-kleistBlauGreen text-gray-500 no-underline hover:text-kleistBlauGreen py-2 pl-2"
                 href="{{ item.url }}">{{ item.text }}</a>
             {% else %}
-            <a class="text-ml inline-block border-r-2 border-b-2 hover:border-kleistBlauGreen text-gray-500 no-underline hover:text-kleistBlauGreen py-2 px-2 pl-0"
+            <a class="text-ml inline-block border-l-2 hover:border-kleistBlauGreen text-gray-500 no-underline hover:text-kleistBlauGreen py-2 pl-2"
                 href="{{ item.url }}">{{ item.text }}</a>
             {% endif %}
         </li>
