@@ -16,7 +16,7 @@
       {% for item in aufmacher.heros %}
       {% if item.spalten == 1 %}
       <div
-        class="w-auto flex flex-col lg:flex-row rounded border-gray-200 hover:bg-gray-200 bg-gray-100 p-6 ml-4 mr-4 mb-6 lg:ml-0 lg:mr-2">
+        class="w-auto flex flex-col lg:flex-row rounded border-gray-200 lg:hover:bg-gray-200 bg-gray-100 p-6 ml-4 mr-4 mb-6 lg:ml-0 lg:mr-2">
         <div>
           <a href="{{item.url}}">
             <h4 class=" text-lg font-sans font-bold uppercase text-kleistBlauGreen">{{item.rubrik}}</h4>
@@ -35,7 +35,7 @@
             <div class="">
               <h3 class="mt-4 mb-2 font-serif text-3xl">{{item.titel}}</h3>
               <p class="">{{item.text}}</p>
-              <p class="text-kleistBlauGreen mt-2">Weiter lesen →</p>
+              <p class="text-kleistBlauGreen mt-2"><a href="{{item.url}}">Weiter lesen →</a></p>
             </div>
           </div>
           {% else %}
@@ -46,7 +46,7 @@
             <div class="">
               <h3 class="mt-4 mb-2 font-serif text-3xl">{{item.titel}}</h3>
               <p class="">{{item.text}}</p>
-              <p class="text-kleistBlauGreen mt-2">Weiter lesen →</p>
+              <p class="text-kleistBlauGreen mt-2"><a href="{{item.url}}">Weiter lesen →</a></p>
             </div>
           </div>
           {% endif %}
@@ -55,7 +55,7 @@
       </div>
       {% else %}
       <div
-        class="w-auto lg:w-[49%] xl:w-[48%] p-6 ml-4 mr-4 mb-6 lg:ml-0 lg:mr-0 rounded border-gray-200 hover:bg-gray-200 bg-gray-100">
+        class="w-auto lg:w-[49%] xl:w-[48%] p-6 ml-4 mr-4 mb-6 lg:ml-0 lg:mr-0 rounded border-gray-200 lg:hover:bg-gray-200 bg-gray-100">
         <a href="{{item.url}}">
           <h4 class=" text-lg font-sans font-bold uppercase text-kleistBlauGreen">{{item.rubrik}}</h4>
           {% if item.bild %}
@@ -66,7 +66,7 @@
           {% endif %}
           <h3 class="mt-4 mb-2 font-serif text-3xl">{{item.titel}}</h3>
           <p class="">{{item.text}}</p>
-          <p class="text-kleistBlauGreen mt-2">Weiter lesen →</p>
+          <p class="text-kleistBlauGreen mt-2"><a href="{{item.url}}">Weiter lesen →</a></p>
         </a>
       </div>
       {% endif %}
