@@ -20,6 +20,14 @@ module.exports = function (eleventyConfig) {
       .value();
   });
 
+  // Returns kjb items, sorted by year, reverse
+  eleventyConfig.addCollection('kjb', collection => {
+    return collection
+      .getFilteredByGlob('./src/kjbs/*.md')
+      .sort((a, b) => (Number(a.data.year) > Number(b.data.year) ? 1 : -1))
+      .reverse();
+  });
+
   // human readable date
   eleventyConfig.addFilter("readableDate", (dateObj) => {
     return DateTime.fromJSDate(dateObj, { zone: "utc" }).toFormat(
@@ -49,6 +57,9 @@ module.exports = function (eleventyConfig) {
 
   // Copy Image Folder to /_site
   eleventyConfig.addPassthroughCopy("./src/static/img");
+
+  // Copy Download Folder to /_site
+  eleventyConfig.addPassthroughCopy("./src/static/download");
 
   // Copy favicon to route of /_site
   eleventyConfig.addPassthroughCopy("./src/favicon.ico");

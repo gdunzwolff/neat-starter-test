@@ -1,0 +1,19 @@
+<aside class="">
+    <div>
+        <h3 class=" text-xl font-bold mb-6">Kleist-Jahrbücher <br /> zum Download</h3>
+        <p class="mb-8">Die Kleist-Jahrbücher der Jahre 2000-2016 können hier heruntergeladen werden. (Mit freundlicher
+            Genehmigung des J.B. Metzler Verlags.)
+        </p>
+    </div>
+    <div class="">
+        {% if jahrbuecher.items %}
+        <ul class="list-none hover:list-disc">
+            {% for item in jahrbuecher.items %}
+            <li class="nav__item text-base text-gray-500 mb-2 hover:text-kleistBlauGreen hover:underline">
+                <a class="" href="{{ item.url }}" download>{{ item.text }}</a>
+            </li>
+            {% endfor %}
+        </ul>
+        {% endif %}
+    </div>
+</aside>

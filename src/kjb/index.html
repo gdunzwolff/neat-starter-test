@@ -3,14 +3,14 @@
 
 {% set title = "Kleist-Jahrbuch" %}
 
-<div class="container mx-auto px-6 lg:max-w-3xl">
-    <section class="mt-15">
-        <img class="lg:max-w-3xl" src="/static/img/logos/newsletter-logo.png" alt="logo newsletter">
+<div class="container flex flex-col lg:flex-row mx-auto px-6 lg:px-0 lg:gap-32">
+    <div class="lg:w-2/3 mt-12">
+        <img class="lg:max-w-2xl mb-12" src="/static/img/logos/kjb-logo-trans.png" alt="logo newsletter">
         {% set postslist = collections.kjb %}
 
-        {% for post in postslist | reverse %}
+        {% for post in postslist %}
         <article class="my-8">
-            <h2 class="font-bold text-3xl text-gray-900 mb-2">
+            <h2 class="font-serif text-4xl text-gray-900 mb-2">
                 <a href="{{ post.url | url }}">
                     {% if post.data.title %}
                     {{ post.data.title }}
@@ -41,7 +41,11 @@
 
         </article>
         {% endfor %}
-    </section>
+    </div>
+    <div class="lg:w-96 mt-12">
+        {% include "../_includes/partials/kjb-download.html" %}
+    </div>
+
 </div>
 
 {% endblock %}

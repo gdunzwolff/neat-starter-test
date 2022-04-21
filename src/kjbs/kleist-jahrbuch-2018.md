@@ -1,13 +1,14 @@
 ---
 title: Kleist-Jahrbuch 2018
+cover: /static/img/kjb/kjb-2018.jpg
 description: Das Kleist-Jahrbuch 2018 dokumentiert die Verleihung des
   Kleist-Preises 2017 mit den Reden des Preisträgers Ralf Rothmann, der
   Vertrauensperson der Jury Hanns Zischler und des Präsidenten der
   Heinrich-von-Kleist-Gesellschaft Günter Blamberger. Es beinhaltet weiterhin
-  Beiträge der interdisziplinären Konferenz „Heillose Menschen? Religiöse
-  Implikationen in Kleists Werken“ (u.a. von Hans-Richard Brittnacher, Andrea
-  Polaschegg, Ulrike Vedder) und des Studientages „Kleists 'Michael Kohlhaas'
-  polyperspektivisch“. Rezensionen, Miszellen sowie die neue Rubrik
+  Beiträge der interdisziplinären Konferenz »Heillose Menschen? Religiöse
+  Implikationen in Kleists Werken« (u.a. von Hans-Richard Brittnacher, Andrea
+  Polaschegg, Ulrike Vedder) und des Studientages »Kleists ›Michael Kohlhaas‹
+  polyperspektivisch«. Rezensionen, Miszellen sowie die neue Rubrik
   Übersetzungen beschließen den Band.
 hrsg: Andrea Allerkamp, Günter Blamberger, Anne Fleig, Barbara Gribnitz, Hannah
   Lotte Lund und Martin Roussel (Hrsg.)
@@ -15,29 +16,57 @@ institutionen: Im Auftrag des Vorstandes der Heinrich-von-Kleist-Gesellschaft
   und des Kleist-Museums.
 verlag: J.B. Metzler
 handelsangaben: "VI, 320 S., kartoniert, Preis: EUR 39,99, ISBN: ISBN 978-3-476-04667-3"
+springerurl: https://link.springer.com/book/10.1007/978-3-476-04668-0
 year: "2018"
-date: 2018-09-15T12:53:00.000Z
+date: 2018-09-15
 ---
-**\
-Verleihung des Kleist-Preises 2017**
+## {{title}}
 
-Günter Blamberger: Zwischen Verzweiflung und Verantwortung. Rede zur Verleihung des Kleist-Preises an Ralf Rothmann 3\
-Hanns Zischler: An der Drecks- und Feuerlinie. Laudatio auf Ralf Rothmann anlässlich der Verleihung des Kleist-Preises 2017 7\
+![]({{cover}})
+
+{{hrsg}}\
+{{institutionen}}
+
+{{verlag}}\
+{{handelsangaben}}
+
+{% if springerurl %}
+[SpringerLink]({{springerurl}})
+{% endif %}
+
+{{description}}
+
+### Inhaltsverzeichnis
+
+**Verleihung des Kleist-Preises 2017**
+
+Günter Blamberger: Zwischen Verzweiflung und Verantwortung. Rede zur Verleihung des Kleist-Preises an Ralf Rothmann 3
+
+Hanns Zischler: An der Drecks- und Feuerlinie. Laudatio auf Ralf Rothmann anlässlich der Verleihung des Kleist-Preises 2017 7
+
 Ralf Rothmann: Dunkler Umriss: Kleist und das Glück. Rede zur Verleihung des Kleist-Preises 2017 15
 
 #### Essay
 Aris Fioretos: 8,5 Punkte zum Tremor 21
 
 #### Heillose Menschen? Religiöse Implikationen in Kleists Werken
-**Internationale Konferenz des Kleist-Museums**\
 
-Hans Richard Brittnacher: Der Zorn Gottes und das ›Ach‹ der Menschen 31\
-Andrea Polaschegg: Phöbus am Grabe des Herrn. Medienpolitik und Religionspoetik im ersten Heft von Kleists ›Journal für die Kunst‹ 47\
-Andrea Allerkamp: Fluchen, Schwören, Lügen. Zur Gebrechlichkeit von Recht und Religion bei Kleist und Shakespeare 69\
-Ulrike Vedder: Biblische Muster und ihre Spielräume in Kleists Familien- und Geschlechterordnungen 87\
-Helga Gallas: Biblischer Subtext in den Novellen Heinrich von Kleists 101\
-Elke Dubbels: Paradies und Sündenfall. Topoi der Sprachreflexion bei Kleist 115\
-Barbara Gribnitz: Kleists Sakralisierung der Sprache 135\
+**Internationale Konferenz des Kleist-Museums**
+
+Hans Richard Brittnacher: Der Zorn Gottes und das ›Ach‹ der Menschen 31
+
+Andrea Polaschegg: Phöbus am Grabe des Herrn. Medienpolitik und Religionspoetik im ersten Heft von Kleists ›Journal für die Kunst‹ 47
+
+Andrea Allerkamp: Fluchen, Schwören, Lügen. Zur Gebrechlichkeit von Recht und Religion bei Kleist und Shakespeare 69
+
+Ulrike Vedder: Biblische Muster und ihre Spielräume in Kleists Familien- und Geschlechterordnungen 87
+
+Helga Gallas: Biblischer Subtext in den Novellen Heinrich von Kleists 101
+
+Elke Dubbels: Paradies und Sündenfall. Topoi der Sprachreflexion bei Kleist 115
+
+Barbara Gribnitz: Kleists Sakralisierung der Sprache 135
+
 Elisabeth Krimmer: Glaube und Aberglaube. Heinrich von Kleists Hexen und Teufel 149
 
 #### Abhandlungen und Miszellen

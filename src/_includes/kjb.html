@@ -3,7 +3,7 @@
 {% extends "default.html" %}
 {% block content %}
 
-<div class="container flex flex-col-reverse lg:flex-row mx-auto px-6 lg:px-0 lg:gap-32 ">
+<div class="container flex flex-col lg:flex-row mx-auto px-6 lg:px-0 lg:gap-32 ">
     <div class="flex-col">
         <article
             class="prose lg:prose-lg prose-h3:text-kleistBlauGreen prose-h3:pt-6 prose-p:font-serif prose-p:leading-normal prose-img:rounded-xl my-8">
@@ -12,24 +12,26 @@
 
     <aside class="  lg:block lg:w-80 mt-8">
         {% include "../_includes/partials/kjb-info.html" %}
-        <h3 class=" font-bold mb-4">
-            Die letzten Ausgaben
-        </h3>
-        <ul class="list-none hover:list-disc">
-            {% set postslist = collections.kjb %}
+        <div class="hidden lg:block">
+            <h3 class=" font-bold mb-4">
+                Die letzten Ausgaben
+            </h3>
+            <ul class="list-none hover:list-disc">
+                {% set postslist = collections.kjb %}
 
-            {% for post in postslist | reverse %}
-            <li class="text-base text-gray-500 hover:text-gray-900 mb-2">
-                <a href="{{ post.url | url }}">
-                    {% if post.data.title %}
-                    {{ post.data.title }}
-                    {% else %}
-                    Untitled
-                    {% endif %}
-                </a>
-            </li>
-            {% endfor %}
-        </ul>
+                {% for post in postslist %}
+                <li class="text-base text-gray-500 hover:text-kleistBlauGreen mb-2">
+                    <a href="{{ post.url | url }}">
+                        {% if post.data.title %}
+                        {{ post.data.title }}
+                        {% else %}
+                        Untitled
+                        {% endif %}
+                    </a>
+                </li>
+                {% endfor %}
+            </ul>
+        </div>
     </aside>
 
 </div>
