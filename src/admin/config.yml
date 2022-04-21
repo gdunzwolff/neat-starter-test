@@ -29,6 +29,35 @@ collections:
       #   multiple: true
       #   create: true
       #   options: ["Tags", "created", "from", "config.yml"]
+  - label: "Kleist-Jahrbuch"
+    name: "kjb"
+    folder: "src/kjbs"
+    create: true
+    editor:
+      preview: false
+    fields:
+      - { label: "Ausgabe", name: "title", widget: "string" }
+      - { label: "Cover", name: "cover", widget: "string", required: false }
+      - { label: "Umschlagtext", name: "description", widget: "string" }
+      - { label: "Hrsg.", name: "hrsg", widget: "string" }
+      - { label: "Institutionen", name: "institutionen", widget: "string" }
+      - { label: "Verlag", name: "verlag", widget: "string" }
+      - { label: "Handelsangaben", name: "handelsangaben", widget: "string" }
+      - {
+          label: "SpringerLink",
+          name: "springerurl",
+          widget: "string",
+          required: false,
+        }
+      - { label: "Jahr", name: "year", widget: "string" }
+      - { label: "Datum", name: "date", widget: "datetime" }
+      - { label: "Inhaltsverzeichnis", name: "body", widget: "markdown" }
+      # - widget: select
+      #   label: "tags"
+      #   name: "tags"
+      #   multiple: true
+      #   create: true
+      #   options: ["Tags", "created", "from", "config.yml"]
   - label: "Kleist-Preis"
     name: "kleist-preis"
     folder: "src/kleist-preise"
