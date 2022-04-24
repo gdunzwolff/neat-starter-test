@@ -1,6 +1,6 @@
 ---
 title: "Kleist-Jahrbuch 2020 (Sonderband) ›Heinrich von Kleist: Der zerbrochne
-  Krug, ein Lustspiel‹. Textkritische Edition hrsg. v. Günter Dunz-Wolff"
+  Krug, ein Lustspiel‹. Textkritische Edition der Handschrift"
 cover: /static/img/kjb/kjb-2020-sb.jpg
 description: Mit dieser Edition von Kleists Handschrift »Der zerbrochne Krug«
   wird eine textgenetische Darstellung vorgelegt, die Kleists zahlreiche,
@@ -17,10 +17,8 @@ description: Mit dieser Edition von Kleists Handschrift »Der zerbrochne Krug«
   Methodik diese Edition erst ermöglicht hat. Die Darstellung wird unterstützt
   durch den Abdruck zahlreicher Faksimile-Ausschnitte. Die Edition erscheint als
   Sonderband des Kleist-Jahrbuchs.
-hrsg: Andrea Allerkamp, Andrea Bartl, Anne Fleig, Barbara Gribnitz, Hannah Lotte
-  Lund und Martin Roussel (Hrsg.)
-institutionen: Sonderband, herausgegeben im Auftrag des Vorstandes der
-  Heinrich-von-Kleist-Gesellschaft und des Kleist-Museums.
+hrsg: Sonderband hrsg. v. Günter Dunz-Wolff
+institutionen: Kleist-Jahrbuch hrsg. v. Andrea Allerkamp, Andrea Bartl, Anne Fleig, Barbara Gribnitz, Hannah Lotte Lund und Martin Roussel im Auftrag des Vorstandes der Heinrich-von-Kleist-Gesellschaft und des Kleist-Museums.
 verlag: J.B. Metzler 
 handelsangaben: "VI, 263 S., kartoniert, Preis: EUR 54,99, ISBN: 978-3-662-62286-5"
 springerurl: https://link.springer.com/book/10.1007/978-3-662-62286-5
