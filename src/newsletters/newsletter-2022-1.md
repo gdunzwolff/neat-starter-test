@@ -71,11 +71,11 @@ Bekannt zu machen ist die erweiterte Neuausgabe von Eberhard Sieberts Kleist-Bil
 
 ### Mein Kleist …
 
-[![](/static/img/newsletter/ba-screenshot.png)](https://kleist-digital.de/berliner-abendblaetter/1810-01#ba_10_01_1)
-
 … ist der **politische** Redakteur und Publizist der Berliner Abendblätter:
  
 Unter schwierigsten Zensurbedingungen zeigt Kleist hier seine ganze Souveränität im Spiel mit literarischen Formen. Das eher selten rezipierte Gebet des Zoroaster ist ein Musterbeispiel verdeckten Schreibens. Das Gebet eröffnet seine Berliner Abendblätter und ist schon durch diese Stellung herausgehoben.
+
+[![](/static/img/newsletter/ba-screenshot.png)](https://kleist-digital.de/berliner-abendblaetter/1810-01#ba_10_01_1)
  
 Äußerlich zeigt sich der Text als (christliches) Klagegebet (Klagepsalm). Der einleitenden Gottesanrede folgt die Lobpreisung, die Klage, die Anamnese, dann die Bitten, sowie die abschließende Akklamation. Inhaltlich enthält das Gebet, am Anfang erkennbar an Rousseaus Gesellschaftsvertrag und Kants Was ist Aufklärung? angelehnt, ein kleines Statut und Programm der Berliner Abendblätter. Im Textgestus ist es eine Art **Selbstverpflichtung Kleists auf ein kritisches Blatt**, das gleichzeitig meinungsstark, parteilich und mit klarer Positionierung auftreten soll. Die Umsetzung dieser Ziele obliegt dem »Köcher der Rede«, mithin den Mitteln der Rhetorik. Als notwendige Voraussetzung des Schreibens wird eine ständig zu erneuernde Selbstaufklärung gesehen, von Zoroaster stellvertretend formuliert: »Durchdringe mich ganz, vom Scheitel zur Sohle, mit dem Gefühl des Elends, in welchem dies Zeitalter darnieder liegt, und mit der Einsicht in alle Erbärmlichkeiten, Halbheiten, Unwahrhaftigkeiten und Gleisnereien, von denen es die Folge ist.« Für Zeitgenossen war dies unschwer zu lesen als Kritik an der napoleonischen Fremdherrschaft und dem Zustand Preußens nach der Niederlage 1806.
 
