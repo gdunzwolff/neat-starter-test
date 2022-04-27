@@ -2,6 +2,8 @@
 layout: kleist-preis-md
 permalink: /geschichte-kleist-preis/
 ---
+<img src="/static/img/kleist-preis/kleistpreisaufmacher-neu.jpg" alt="fotomontage kleispreis">
+
 ## Für Unruhestifter - Der Kleist-Preis
 _Günter Blamberger (Köln)_
 

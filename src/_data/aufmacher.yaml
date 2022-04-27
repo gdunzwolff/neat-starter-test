@@ -10,6 +10,14 @@ heros:
       Schriftstellerin und Übersetzerin Esther Kinsky. Die Verleihung soll am
       27. November während einer Matinée im Deutschen Theater erfolgen.
     spalten: 1
+  - rubrik: Online-Vortrag
+    titel: "Prof. Dr. Ricarda Schmidt: Wunschträume im Werk Heinrich von Kleists – Mittwoch, 27.04.2022, 19 Uhr"
+    bild: /static/img/events/ricarda-schmidt.png
+    bildunterschrift: null
+    bild2:
+    url: /veranstaltungen/22-04-27-vortrag-schmidt/
+    text: "Ricarda Schmidt war von 2005 bis 2020 Professorin für Germanistik an der Universität Exeter. Vorher arbeitete sie an verschiedenen Universitäten in Großbritannien, Frankreich und Deutschland. Zu ihren Arbeitsgebieten zählt die Literatur des 18. bis 20. Jahrhunderts. Kleist gehört seit ihrer Schulzeit zu den Autoren, die sie besonders liebt. 2010-2014 war sie Leiterin eines AHRC Forschungsprojektes zu Kleist."
+    spalten: 1
   - rubrik: Newsletter
     titel: Erste Ausgabe. 12. April 2022
     bild: /static/img/logos/newsletter-logo.png
@@ -17,7 +25,7 @@ heros:
     bild2:
     url: /newsletters/newsletter-2022-1/
     text: Der neue HvKG-Newsletter – Begrüßung Präsidentin – Kleist-Preis 2022 – Gastvorträge online von Prof. Dr. Ricarda Schmidt und Elaine Chen – Studentischer Aufsatzwettbewerb 2022 Ankündigung – (Mein Kleist) Günter Dunz-Wolff zu Kleists ›Gebet des Zoroaster‹ – (Fundstück) Burkhard Wolter über ersteigerten Wandteller mit Kleistbezug – (Erlesenes) Anne Fleig über Emine Sevgi Özdamara ›Ein von Schatten begrenzter Raum‹ – Kurzvorstellung des neu gewählten Vorstands
-    spalten: 1
+    spalten:
   - rubrik: Aufsatzwettbewerb
     titel: Preis für den besten studentischen Aufsatz 2022 über Texte
       Heinrich von Kleists
@@ -48,7 +56,7 @@ heros:
     bild: /static/img/logos/kjb-logo-trans.png
     bildunterschrift: null
     bild2:
-    url: /
+    url: /kjbs/kleist-jahrbuch-2021/
     text:
       Das Kleist-Jahrbuch 2021 enthält neben Beiträgen zur ›Politik des Rechts
       im Werk Heinrich von Kleists‹ von Bernd Fischer, Antonia Eder, David Pan,

@@ -2,7 +2,7 @@ items:
   - text: Home
     url: /
   - text: Heinrich v. Kleist
-    url: /hvk/
+    url: #
   - text: Kleist-Preis
     url: /kleist-preis/
   - text: Kleist-Jahrbuch

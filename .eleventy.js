@@ -3,6 +3,7 @@ const { DateTime } = require("luxon");
 const syntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
 const htmlmin = require("html-minifier");
 const _ = require("lodash");
+const { isAfter, isBefore, format, isToday } = require('date-fns');
 
 module.exports = function (eleventyConfig) {
   // Disable automatic use of your .gitignore
@@ -26,6 +27,18 @@ module.exports = function (eleventyConfig) {
       .getFilteredByGlob('./src/kjbs/*.md')
       .sort((a, b) => (Number(a.data.year) > Number(b.data.year) ? 1 : -1))
       .reverse();
+  });
+
+  eleventyConfig.addCollection('upcomingEvents', collection => {
+    return collection
+      .getFilteredByGlob('./src/veranstaltungen/*.md')
+      .filter((veranstaltung) => isToday(new Date(veranstaltung.data.datum)) || isAfter(new Date(veranstaltung.data.datum), new Date()));
+  });
+
+  eleventyConfig.addCollection('pastEvents', collection => {
+    return collection
+      .getFilteredByGlob('./src/veranstaltungen/*.md')
+      .filter((veranstaltung) => isBefore(new Date(veranstaltung.data.datum), new Date()));
   });
 
   // human readable date

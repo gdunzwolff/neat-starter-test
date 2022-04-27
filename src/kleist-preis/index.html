@@ -3,18 +3,26 @@ layout: kleist-preis
 ---
 {% set title = "Kleist-Preis" %}
 
-<div class="mt-12">
-    <img src="/static/img/kleist-preis/kleistpreisaufmacher2.png" alt="fotomontage kleispreis">
-    <h1 class="text-4xl text-gray-800 font-bold mt-12">Reden und Berichte anlässlich der
+<div class="my-12">
+    <img src="/static/img/kleist-preis/kleistpreisaufmacher-neu.jpg" alt="fotomontage kleispreis">
+    <h1 class="text-3xl text-kleistBlauGreen font-bold mt-8">Reden und Berichte anlässlich der
         <br />Kleist-Preis Verleihungen
     </h1>
+    <!--{% set postslist = collections.preis %}-->
+
+    {% set showYear = true %}
     {% set postslist = collections.preis %}
 
-    {% for year, yearPosts in collections.postsByYear %}
-    <h2 class="mt-16 font-bold text-3xl text-kleistBlauGreen mb-2">Kleist-Preis {{ year }}</h2>
-    <ul>
-        {% for post in yearPosts %}
-        {%if post.data.tags == "preis"%}
+    <ol reversed>
+        {% set currentYear = "" %}
+        {% for post in postslist | reverse %}
+        {% if showYear %}
+        {% set postYear = post.date.getFullYear() %}
+        {% if currentYear != postYear %}
+        {% set currentYear = postYear %}
+        <h2 class="mt-16 font-bold text-3xl text-kleistBlauGreen mb-2">{{ postYear }}</h2>
+        {% endif %}
+        {% endif %}
         <li>
             <h3 class="font-bold text-xl text-gray-800 mb-1"><a href="{{ post.url | url }}">{{ post.data.title
                     }}</a>
@@ -28,9 +36,6 @@ layout: kleist-preis
             </p>
             {% endif %}
         </li>
-
-        {% endif %}
         {% endfor %}
-    </ul>
-    {% endfor %}
+    </ol>
 </div>

@@ -2,6 +2,8 @@
 layout: kleist-preis-md
 permalink: /statut-kleist-preis/
 ---
+<img src="/static/img/kleist-preis/kleistpreisaufmacher-neu.jpg" alt="fotomontage kleispreis">
+
 ## Statut Kleist-Preis
 
 Auf Wunsch der Bundesbeauftragten für Kultur und Medien hat die Heinrich-von-Kleist-Gesellschaft auf ihrer Mitgliederversammlung am 19.11.2016 beschlossen, das historisch tradierte und bis heute aktuell praktizierte Verfahren zur Wahl von Kleist-Preisträgern in den wesentlichen Punkten schriftlich zu erläutern und die folgende Formulierung dafür gefunden, die der Öffentlichkeit publiziert werden kann. Zu finden ist sie auch im KleistPortal unter dem link: www.heinrich-von-kleist.org. 

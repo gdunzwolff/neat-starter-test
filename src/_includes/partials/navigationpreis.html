@@ -1,23 +1,24 @@
-<div class="min-w-[250px] max-w-[250px]">
-    <img class="hidden lg:block w-32 mt-8 mb-12 ml-[-.5em]" src="/static/img/logos/logo-kleist-preis-crop.png"
-        alt="logo kleist-preis" />
-    <div class="container w-full">
-        {% if navigationpreis.items %}
+<div class="mt-6 lg:mt-20 lg:min-w-[250px] lg:max-w-[250px]">
+    <div class="grid grid-cols-4 lg:grid-cols-none">
+        <img class="w-16 lg:w-24 mb-6" src="/static/img/logos/logo-kleist-preis-crop.png" alt="logo kleist-preis" />
+        <div class="col-span-3 lg:container lg:w-full">
+            {% if navigationpreis.items %}
 
-        <ul class="flex flex-col">
-            {% for item in navigationpreis.items %}
-            <li class="nav__item mb-2">
-                {% if page.url == item.url %}
-                <a class="text-ml inline-block border-l-4 border-kleistBlauGreen text-gray-500 no-underline hover:text-kleistBlauGreen lg:py-2 pl-2"
-                    href="{{ item.url }}">{{ item.text }}</a>
-                {% else %}
-                <a class="text-ml inline-block border-l-2 hover:border-kleistBlauGreen text-gray-500 no-underline hover:text-kleistBlauGreen lg:py-2 pl-2"
-                    href="{{ item.url }}">{{ item.text }}</a>
-                {% endif %}
-            </li>
-            {% endfor %}
-        </ul>
+            <ul class="flex flex-col">
+                {% for item in navigationpreis.items %}
+                <li class="nav__item mb-2">
+                    {% if page.url == item.url %}
+                    <a class="text-ml inline-block border-l-4 border-kleistBlauGreen text-gray-500 no-underline hover:text-kleistBlauGreen lg:py-2 pl-2"
+                        href="{{ item.url }}">{{ item.text }}</a>
+                    {% else %}
+                    <a class="text-ml inline-block border-l-2 hover:border-kleistBlauGreen text-gray-500 no-underline hover:text-kleistBlauGreen lg:py-2 pl-2"
+                        href="{{ item.url }}">{{ item.text }}</a>
+                    {% endif %}
+                </li>
+                {% endfor %}
+            </ul>
 
-        {% endif %}
+            {% endif %}
+        </div>
     </div>
 </div>

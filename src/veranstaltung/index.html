@@ -1,0 +1,66 @@
+---
+permalink: /veranstaltungen/
+---
+{% set title = "Veranstaltungen der Heinrich-von-Kleist-Gesellschaft" %}
+
+{% extends "default.html" %}
+{% block content %}
+
+
+
+<div class="container flex flex-col lg:flex-row mx-auto px-6 lg:px-0 lg:gap-32">
+    <div class="lg:w-2/3 mt-12">
+        <!-- <img class="lg:max-w-2xl mb-12" src="/static/img/logos/kjb-logo-trans.png" alt="logo newsletter"> -->
+        <h1 class=" text-3xl font-bold">{{title}}</h1>
+        {% set postslist = collections.upcomingEvents %}
+
+        {% for post in postslist %}
+        <article class="my-8">
+            <h2 class="text-xl font-bold text-gray-900 mb-2">
+                {% if post.data.datumklartext %}
+                {{ post.data.datumklartext }}
+                {% endif %}
+            </h2>
+            <p class="text-xl text-gray-900 mb-2">
+                <a href="{{ post.url | url }}">
+                    {% if post.data.title %}
+                    {{ post.data.title }}
+                    {% endif %}
+                </a>
+            </p>
+            <p class="text-xl">
+                {% if post.data.eventtyp %}{{post.data.eventtyp}}{% endif %}
+                {% if post.data.referentin %}von <b>{{post.data.referentin}}</b> {% endif %}
+                {% if post.data.institution %} ({{post.data.institution}}) {% endif %}
+            </p>
+            <!-- <p class="text-base leading-6 text-gray-500 mb-3">
+            <time>
+                {{ post.date | readableDate }}
+                by
+                <a>{{ post.data.author }}</a>
+
+            </time>
+        </p> -->
+            {% if post.data.description %}
+            <p class="text-lg text-gray-500 mb-3">
+                {{ post.data.description }}
+            </p>
+            {% endif %}
+
+            <p class=" mt-4">
+                <a href="{{ post.url | url }}" class="text-indigo-500 font-bold text-lg">
+                    Weiter lesen →
+                </a>
+            </p>
+
+        </article>
+        {% endfor %}
+    </div>
+
+    <div class="lg:w-96 mt-12">
+        {% include "../_includes/partials/events-past.html" %}
+    </div>
+
+</div>
+
+{% endblock %}
