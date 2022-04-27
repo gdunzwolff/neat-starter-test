@@ -6,9 +6,10 @@ year: 2022
 date: 2022-04-15
 genre: nachricht
 ---
-![](/static/img/kleist-preis/2022/kinsky_esther_201-c-heike-steinweg_sv.jpg)
-
-###### © Heike Steinweg
+<div>
+    <img class="my-0 py-0" src="/static/img/kleist-preis/2022/kinsky_esther_201-c-heike-steinweg_sv.jpg" alt="fotomontage kleispreis">
+    <caption class=" text-xs">© Heike Steinweg</caption>
+</div>
 
 ## {{title}}
 
