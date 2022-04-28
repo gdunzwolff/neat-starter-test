@@ -1,0 +1,15 @@
+{% set title = "Heinrich-von-Kleist-Gesellschaft Veranstaltungen" %}
+
+{% extends "md.html" %}
+
+<!-- Hier wird die Seitennavigation eingefügt -->
+
+{% block aside %}
+
+{% if eventtyp == "Online-Vortrag" %}
+{% include "../_includes/partials/vortragsreihe.html" %}
+{% elif eventtyp == "Internationale Jahrestagung" %}
+{% include "../_includes/partials/jahrestagung.html" %}
+{% endif %}
+
+{% endblock %}

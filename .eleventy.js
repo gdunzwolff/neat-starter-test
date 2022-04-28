@@ -32,13 +32,14 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addCollection('upcomingEvents', collection => {
     return collection
       .getFilteredByGlob('./src/veranstaltungen/*.md')
-      .filter((veranstaltung) => isToday(new Date(veranstaltung.data.datum)) || isAfter(new Date(veranstaltung.data.datum), new Date()));
+      .filter((veranstaltung) => isToday(new Date(veranstaltung.data.date)) || isAfter(new Date(veranstaltung.data.date), new Date()));
   });
 
   eleventyConfig.addCollection('pastEvents', collection => {
     return collection
-      .getFilteredByGlob('./src/veranstaltungen/*.md')
-      .filter((veranstaltung) => isBefore(new Date(veranstaltung.data.datum), new Date()));
+      .getFilteredByTag('event')
+      //.getFilteredByGlob('./src/veranstaltungen/*.md')
+      .filter((veranstaltung) => isBefore(new Date(veranstaltung.data.date), new Date()));
   });
 
   // human readable date

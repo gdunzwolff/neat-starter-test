@@ -1,7 +1,7 @@
 ---
-datum: 2022-04-26
+date: 2022-04-27
 uhrzeit: 19:00
-datumklartext: Mittwoch, 27.04.2022, 19 Uhr
+datumklartext: Mittwoch, 27.04.2022, 19 Uhr
 title: Wunschträume im Werk Heinrich von Kleists
 referentin: Prof. Dr. Ricarda Schmidt
 institution: University of Exeter

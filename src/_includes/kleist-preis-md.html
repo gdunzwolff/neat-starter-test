@@ -1,16 +1,9 @@
 {% set title = "Kleist-Preis" %}
 
-{% extends "default.html" %}
-{% block content %}
+{% extends "md.html" %}
 
-<div class="container flex flex-col-reverse lg:flex-row mx-auto px-6 lg:px-0 lg:gap-32 ">
-    <div
-        class="prose lg:prose-xl prose-h2:text-3xl prose-h2:text-kleistBlauGreen prose-h3:text-kleistBlauGreen prose-h3:pt-6 prose-p:font-serif prose-li:list-none prose-li:font-sans prose-p:leading-normal prose-img:rounded-xl my-12">
-        {{ content | safe }}
-    </div>
+<!-- Hier wird die Seitennavigation eingefügt -->
 
-    {% include "../_includes/partials/navigationpreis.html" %}
-
-</div>
-
+{% block aside %}
+{% include "../_includes/partials/navigationpreis.html" %}
 {% endblock %}

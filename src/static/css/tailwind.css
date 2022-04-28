@@ -3,3 +3,13 @@
 @tailwind utilities;
 
 /*Your Custom CSS Goes here*/
+
+/* @layer base {
+    td {
+        text-align: left;
+    }
+
+    .prose-td {
+        text-align: left;
+    }
+} */

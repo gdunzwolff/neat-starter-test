@@ -1,7 +1,7 @@
 ---
-datum: 2022-06-15
+date: 2022-06-15
 uhrzeit: 19:00
-datumklartext: Mittwoch, 15. Juni 2022, 19 Uhr
+datumklartext: Mittwoch, 15. Juni 2022, 19 Uhr
 title: "Unwillkommene Gäste bei Kleist und Stefan Zweig: Die Politik des Gastrechts in ›Die Verlobung in St. Domingo‹ und ›Der Amokläufer‹"
 referentin: Elaine Chen
 institution: Harvard University

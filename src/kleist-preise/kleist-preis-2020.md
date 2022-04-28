@@ -5,8 +5,11 @@ description: Am 21. November 2021 wurde während einer Matinée im Deutschen
   Theater Berlin der Kleist-Preis 2020 an den 1982 in Graz geborenen
   Schriftsteller und Übersetzer Clemens J. Setz verliehen.
 year: 2020
-date: 2020-03-15
+date: 2021-11-21
+datumklartext: 21.11.2021, 11 Uhr
 genre: nachricht
+tags: event
+eventtyp: Kleist-Preis
 ---
 
 ![](/static/img/kleist-preis/2020/dt-2021-setz.jpg)
