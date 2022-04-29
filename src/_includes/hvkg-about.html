@@ -1,0 +1,18 @@
+<section>
+    <div class="w-full  bg-kleistBlauGreen">
+        <div class="container flex flex-col lg:flex-row items-center mx-auto p-6">
+            <img class="w-[300px] rounded-full shadow-lg" src="/static/img/kleist-kopf-quadr.png" alt="kleist-porträt">
+            <p class="p-6 text-lg text-white">
+                {% if infobausteine.bereiche %}
+
+                {% for item in infobausteine.bereiche %}
+                {% if item.info == 'hvkg-about' %}
+                {{ item.text }}
+                {% endif %}
+                {% endfor %}
+
+                {% endif %}
+            </p>
+        </div>
+    </div>
+</section>
