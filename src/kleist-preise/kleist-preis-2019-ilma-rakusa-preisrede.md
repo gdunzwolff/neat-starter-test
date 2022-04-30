@@ -4,7 +4,7 @@ title: "Preisrede: Ilma Rakusa"
 description: Rede zur Verleihung des Heinrich von Kleist Preises. Berlin, am 24.
   November 2018.
 year: "2019"
-date: 2019-04-19T21:05:05.802Z
+date: 2019-04-01T21:05:05.802Z
 genre: Rede
 ---
 Sehr geehrte Jury, sehr geehrter Herr Botschafter, lieber Günter Blamberger, liebe Yoko Tawada, verehrte Damen und Herren, liebe Freundinnen und Freunde,

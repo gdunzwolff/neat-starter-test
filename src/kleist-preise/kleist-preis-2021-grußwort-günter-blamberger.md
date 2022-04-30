@@ -3,8 +3,8 @@ layout: kleist-preis-md
 title: "Grußwort: Günter Blamberger – Nachleben/Black Box*"
 description: Rede zur Verleihung des Kleist-Preises an Clemens J. Setz am 21.
   November 2021 im Deutschen Theater Berlin
-year: "2020"
-date: 2020-04-19T17:30:25.483Z
+year: "2021"
+date: 2021-04-19T17:30:25.483Z
 genre: Rede
 ---
 #### Kleist-Preis 2020 (verliehen 2021)

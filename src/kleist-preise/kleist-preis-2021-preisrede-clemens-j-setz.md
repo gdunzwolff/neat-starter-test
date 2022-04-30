@@ -2,8 +2,8 @@
 layout: kleist-preis-md
 title: "Preisrede: Clemens J. Setz – SELBSTLOSIGKEIT"
 description: Rede zum Kleist-Preis 2020
-year: "2020"
-date: 2020-04-20T16:38:09.002Z
+year: "2021"
+date: 2021-04-20T16:38:09.002Z
 genre: Rede
 ---
 Ein Mal in meinem Leben wurde ich Augenzeuge eines Mysteriums, dessen Erforschung mir gewiss nie ganz gelingen wird, aber das meinem Leben, wie ich hoffe, so etwas wie eine dauerhafte Forschungsrichtung verleihen könnte. Die Szene spielt auf einem Bahnsteig, in Deutschland. Ich glaube, es war in Braunschweig, und das Jahr war 2015. Eine Frau wartete mit ihren zwei kleinen Kindern auf den Zug. Da fiel einem Teenager, nach einer ungeschickten Drehbewegung, der obere Teil seines offenbar nur aus lose miteinander verschnürten Teilen bestehenden Rucksacks auf die Gleise hinunter. In derselben Sekunde ließ die Frau die Hände ihrer beiden kleinen Kinder los und lief die paar Schritte in Richtung Bahnsteig. Der junge Mann blickte nur ratlos zu den Gleisen und befand sich allem Anschein nach überhaupt nicht in Gefahr, etwa kopflos hinterher zu springen oder sonst irgendeine leichtsinnige Aktion zu wagen. Die Frau fasste ihn trotzdem bei den Schultern und zog ihn sanft vom Abgrund fort. So weit, so gut. Eine beherzte und gute Geste. Aber nun brachte sich die Frau, während ihre beiden ankerlos gewordenen Kinder ihr mit tapsigen Schritten nachwackelten (was mich wiederum dazu brachte, ihnen nachzugehen), in eine seitliche, wie im Damensattel sitzende Haltung am Rande des Bahnsteigs und angelte mit einem weit ausgestreckten Bein nach dem gefallenen Gegenstand auf dem Gleisbett. Es gelang ihr, das Ding zu bergen und dem Jüngling zurückzugeben. Der bedankte sich. Die Frau empfing ihre Kinder, die bis zu ihr an den Rand des Bahnsteigs gegangen waren. 

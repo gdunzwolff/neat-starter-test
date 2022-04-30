@@ -4,7 +4,7 @@ title: "Günter Blamberger – Überlebenskunst"
 description: Rede zur Verleihung des Kleist-Preises an Christoph Ransmayr am 18.
   November 2018 im Deutschen Theater Berlin.
 year: 2018
-date: 2018-03-15
+date: 2018-03-03
 genre: Rede
 ---
 

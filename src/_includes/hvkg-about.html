@@ -4,14 +4,19 @@
             <img class="w-[300px] rounded-full shadow-lg" src="/static/img/kleist-kopf-quadr.png" alt="kleist-porträt">
             <p class="p-6 text-lg text-white">
                 {% if infobausteine.bereiche %}
-
                 {% for item in infobausteine.bereiche %}
                 {% if item.info == 'hvkg-about' %}
                 {{ item.text }}
                 {% endif %}
                 {% endfor %}
-
                 {% endif %}
+            </p>
+            <p>
+                {% for info in collections.infos %}
+                {% if info.data.bereich == "hvkg-about" %}
+                {{ info.templateContent | safe }}
+                {% endif %}
+                {% endfor %}
             </p>
         </div>
     </div>

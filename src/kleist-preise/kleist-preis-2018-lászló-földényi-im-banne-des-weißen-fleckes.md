@@ -3,7 +3,7 @@ layout: kleist-preis-md
 title: "Laudatio: László Földényi - Im Banne des weißen Fleckes"
 description: Laudatio anlässlich der Verleihung des Kleist-Preises an Christoph Ransmayr.
 year: "2018"
-date: 2018-04-19T21:10:45.182Z
+date: 2018-03-02T21:10:45.182Z
 genre: Rede
 ---
 Ob Heinrich von Kleist zu Lebzeiten je den Kleist-Preis erhalten hätte? Vermutlich nicht. Nein, gewiss nicht. „Was ... den Styl betrifft, so ist dieser zu undeutsch, steif, verschroben, und … gemein”, schrieb etwa Karl August Böttiger, einer der maßgeblichen Kritiker der Zeit, über die Marquise von O..... Die Ansicht, dass Kleist des Deutschen nicht wirklich mächtig und seine Sprache unmöglich sei, war allgemein verbreitet. Der Kleist-Preis für einen Autor, der im Schatten Goethes derart umständlich beschreibt, wie Lisbeth der Atem stockt, als sie erfährt, dass Kohlhaas seine Besitzungen verkaufen will – einer meiner Lieblingssätze aus *Kohlhaas:* „Sie wandte sich, und hob ihr Jüngstes auf, das hinter ihr auf dem Boden spielte, Blicke, in welchen sich der Tod malte, bei den roten Wangen des Knaben vorbei, der mit ihren Halsbändern spielte, auf den Roßkamm, und ein Papier werfend, das er in der Hand hielt.“

@@ -3,7 +3,7 @@ layout: kleist-preis-md
 title: László Földényi verlieh den Kleist-Preis 2018 an Christoph Ransmayr
 description: Der Kleist-Preis 2018 wurde Christoph Ransmayr am 18. November 2018 in Berlin von László Földényi im Deutschen Theater übergeben.
 year: "2018"
-date: 2018-03-14T21:07:43.653Z
+date: 2018-03-04T21:07:43.653Z
 genre: Nachricht
 ---
 Der Kleist-Preis 2018 wurde **Christoph Ransmayr** am **18. November 2018** in Berlin von dem ungarischen Kunsttheoretiker, Essayist, Literaturkritiker und Übersetzer **László Földényi**  während einer denkwürdigen Matinée im **Deutschen Theater** übergeben. Arrangiert wurde die Preis-Verleihung von **Ulrich Khuon** und **Ulrich Beck**. Die bewegende Rede von **Christoph Ransmayr**, oder besser die autobiographische Erzählung zum Thema Kohlhaas-mein-Vater, wird im Dezember in der FAZ veröffentlicht werden, später dann im Kleist-Jahrbuch 2019 vollständig erscheinen, die Laudatio von **László Földényi** ist hier nachzulesen.

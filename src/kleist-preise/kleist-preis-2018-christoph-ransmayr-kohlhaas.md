@@ -4,7 +4,7 @@ title: "Preisrede: Christoph Ransmayr - Kohlhaas"
 description: Rede zur Verleihung des Heinrich von Kleist Preises. Berlin, am 18.
   November 2018.
 year: "2018"
-date: 2018-04-19T21:12:49.873Z
+date: 2018-03-01T21:12:49.873Z
 genre: Rede
 ---
 Michael Kohlhaas, ein an seinem unerbittlichen Glauben an irdische Gerechtigkeit zugrundegegangener Mann, den Heinrich von Kleist hoch über seine Zeit hinausgehoben und unvergeßlich gemacht hat, war mein Vater. 
