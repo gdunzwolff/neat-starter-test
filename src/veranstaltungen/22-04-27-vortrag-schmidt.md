@@ -4,6 +4,7 @@ uhrzeit: 19:00
 datumklartext: Mittwoch, 27.04.2022, 19 Uhr
 title: Wunschträume im Werk Heinrich von Kleists
 referentin: Prof. Dr. Ricarda Schmidt
+portraitfoto: /static/img/events/ricarda-schmidt.png
 institution: University of Exeter
 zoom-link: https://uni-bonn.zoom.us/j/61986552423?pwd=cjRmZHd1VmdGV0w5cllKZDdKYnhHUT09
 meeting-id: 619 8655 2423
@@ -12,11 +13,15 @@ eventtyp: Online-Vortrag
 ---
 
 #### {{eventtyp}}
-### {{datumsangabe-klartext}}
+### {{datumklartext}}
+{% if portraitfoto %}
+<img class="w-80" src="{{portraitfoto}}"></img>
+{% endif %}
 {% if referentin %}
 *{{referentin}}* / {{ institution }}
 {% endif %}
 _{{title}}_
+
 {% if zoom-link %}
 [Zoom-Link]({{zoom-link}})
 Meeting-ID: {{meeting-id}}

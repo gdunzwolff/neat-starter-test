@@ -26,7 +26,9 @@ permalink: /veranstaltungen/
                 </a>
             </p>
             <p class="text-xl">
-                {% if post.data.eventtyp %}{{post.data.eventtyp}}{% endif %}
+                {% if post.data.eventtyp !== "Kleist-Preis" %}
+                {{post.data.eventtyp}}
+                {% endif %}
                 {% if post.data.referentin %}von <b>{{post.data.referentin}}</b> {% endif %}
                 {% if post.data.institution %} ({{post.data.institution}}) {% endif %}
             </p>

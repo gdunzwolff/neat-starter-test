@@ -4,6 +4,7 @@ uhrzeit: 19:00
 datumklartext: Mittwoch, 15. Juni 2022, 19 Uhr
 title: "Unwillkommene Gäste bei Kleist und Stefan Zweig: Die Politik des Gastrechts in ›Die Verlobung in St. Domingo‹ und ›Der Amokläufer‹"
 referentin: Elaine Chen
+portraitfoto: /static/img/events/elaine-chen.png
 institution: Harvard University
 zoom-link: https://uni-bonn.zoom.us/j/65259606788?pwd=eUhGY2c2L2lrSVVTSUJBU0tKQkxHUT09
 meeting-id: 652 5960 6788
@@ -12,11 +13,15 @@ eventtyp: Online-Vortrag
 ---
 
 #### {{eventtyp}}
-### {{datumsangabe-klartext}}
+### {{datumklartext}}
+{% if portraitfoto %}
+<img class="w-80" src="{{portraitfoto}}"></img>
+{% endif %}
 {% if referentin %}
 *{{referentin}}* / {{ institution }}
 {% endif %}
 _{{title}}_
+
 {% if zoom-link %}
 [Zoom-Link]({{zoom-link}})
 Meeting-ID: {{meeting-id}}
