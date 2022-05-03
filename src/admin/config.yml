@@ -106,12 +106,12 @@ collections:
           - { label: Layout, name: layout, widget: string }
           - { label: Url, name: permalink, widget: string }
           - { label: "Text", name: "body", widget: "markdown" }
-  - label: "Homepage, Navigation"
-    name: "settings"
+  - label: "Navigation"
+    name: "navigation"
     editor:
       preview: false
     files:
-      - label: "Navigation"
+      - label: "Hauptnavigation"
         name: "items"
         file: "src/_data/navigation.yaml"
         fields:
@@ -123,7 +123,7 @@ collections:
             fields:
               - { label: Title, name: text, widget: string }
               - { label: URL, name: url, widget: string }
-      - label: "Kleist-Preis"
+      - label: "Subnav Kleist-Preis"
         name: "kleistpreis"
         file: "src/_data/subnavkleistpreis.yaml"
         fields:
@@ -135,7 +135,7 @@ collections:
             fields:
               - { label: Title, name: text, widget: string }
               - { label: URL, name: url, widget: string }
-      - label: "Kleist-Jahrbuch"
+      - label: "Subnav Kleist-Jahrbuch"
         name: "kjb"
         file: "src/_data/subnavkjb.yaml"
         fields:
@@ -147,6 +147,11 @@ collections:
             fields:
               - { label: Title, name: text, widget: string }
               - { label: URL, name: url, widget: string }
+  - label: "Homepage"
+    name: "settings"
+    editor:
+      preview: false
+    files:
       - label: "Homepage"
         name: "heros"
         file: "src/_data/aufmacher.yaml"
