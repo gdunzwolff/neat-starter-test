@@ -1,4 +1,15 @@
 heros:
+  - rubrik: Kleist-Preis
+    titel: Paul Ingendaay verleiht den Kleist-Preis 2022 an Esther Kinsky
+    bild: /static/img/kleist-preis/2022/Kinsky_Esther_201(c)Heike Steinweg_SV.jpg
+    bildunterschrift: © Heike Steinweg
+    bild2: /static/img/logos/logo-kleist-preis-crop.png
+    url: /kleist-preise/kleist-preis-2022/
+    text:
+      Der Kleist-Preis des Jahres 2022 geht an die 1956 im Rheinland geborene
+      Schriftstellerin und Übersetzerin Esther Kinsky. Die Verleihung soll am
+      27. November während einer Matinée im Deutschen Theater erfolgen.
+    spalten: 1
   - rubrik: Online-Vortrag
     titel: "Elaine Chen: Unwillkommene Gäste bei Kleist und Stefan Zweig: Die
       Politik des Gastrechts in ›Die Verlobung in St. Domingo‹ und ›Der
@@ -14,16 +25,6 @@ heros:
       dieser Arbeit wurde 2021 von der Kleist-Gesellschaft mit dem ›Preis für
       den besten studentischen Aufsatz‹ über Texte Heinrich von Kleists
       ausgezeichnet.
-    spalten: 1
-  - rubrik: Kleist-Preis
-    titel: Paul Ingendaay verleiht den Kleist-Preis 2022 an Esther Kinsky
-    bild: /static/img/kleist-preis/2022/Kinsky_Esther_201(c)Heike Steinweg_SV.jpg
-    bildunterschrift: © Heike Steinweg
-    bild2: /static/img/logos/logo-kleist-preis-crop.png
-    url: /kleist-preise/kleist-preis-2022/
-    text: Der Kleist-Preis des Jahres 2022 geht an die 1956 im Rheinland geborene
-      Schriftstellerin und Übersetzerin Esther Kinsky. Die Verleihung soll am
-      27. November während einer Matinée im Deutschen Theater erfolgen.
     spalten: 1
   - rubrik: Newsletter
     titel: Erste Ausgabe. 12. April 2022
@@ -46,7 +47,8 @@ heros:
     bildunterschrift: null
     bild2: null
     url: /
-    text: Die Heinrich von Kleist-Gesellschaft lobt 2022 erneut einen „Preis für den
+    text:
+      Die Heinrich von Kleist-Gesellschaft lobt 2022 erneut einen „Preis für den
       besten studentischen Kleist-Aufsatz“ aus. Eingereicht werden können
       literaturwissenschaftliche Beiträge über Heinrich von Kleists Texte.
       Weitere Einschränkungen in Bezug auf Thema, Text- und Kontextauswahl oder
@@ -61,7 +63,8 @@ heros:
     bildunterschrift: null
     bild2: null
     url: /
-    text: Das Kleist-Nachwuchs-Netzwerk ist eine Initiative, die sich im November
+    text:
+      Das Kleist-Nachwuchs-Netzwerk ist eine Initiative, die sich im November
       2018 gegründet hat und die insbesondere junge Kleist-Forscher:innen und
       -Interessent:innen zusammenbringen möchte. Ziel des Netzwerkes ist es, ein
       Forum des offenen Austauschs für den Nachwuchs zu initiieren und zu
@@ -74,7 +77,8 @@ heros:
     bildunterschrift: null
     bild2: null
     url: /kjbs/kleist-jahrbuch-2021/
-    text: Das Kleist-Jahrbuch 2021 enthält neben Beiträgen zur ›Politik des Rechts
+    text:
+      Das Kleist-Jahrbuch 2021 enthält neben Beiträgen zur ›Politik des Rechts
       im Werk Heinrich von Kleists‹ von Bernd Fischer, Antonia Eder, David Pan,
       Bernhard Greiner, Johannes F. Lehmann, Tim Mehigan und Christian Moser
       weitere Abhandlungen von Rüdiger Görner, Andreas Moser, Patrick Fortmann
