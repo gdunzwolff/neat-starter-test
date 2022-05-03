@@ -123,6 +123,30 @@ collections:
             fields:
               - { label: Title, name: text, widget: string }
               - { label: URL, name: url, widget: string }
+      - label: "Kleist-Preis"
+        name: "kleistpreis"
+        file: "src/_data/subnavkleistpreis.yaml"
+        fields:
+          - label: Nav Items
+            name: navitems
+            widget: list
+            allow_add: true
+            collapsed: false
+            fields:
+              - { label: Title, name: text, widget: string }
+              - { label: URL, name: url, widget: string }
+      - label: "Kleist-Jahrbuch"
+        name: "kjb"
+        file: "src/_data/subnavkjb.yaml"
+        fields:
+          - label: Nav Items
+            name: navitems
+            widget: list
+            allow_add: true
+            collapsed: false
+            fields:
+              - { label: Title, name: text, widget: string }
+              - { label: URL, name: url, widget: string }
       - label: "Homepage"
         name: "heros"
         file: "src/_data/aufmacher.yaml"
