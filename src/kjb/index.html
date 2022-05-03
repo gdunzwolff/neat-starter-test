@@ -3,9 +3,11 @@
 
 {% set title = "Kleist-Jahrbuch" %}
 
-<div class="container flex flex-col lg:flex-row mx-auto px-6 lg:px-0 lg:gap-32">
+<div class="container flex flex-col-reverse lg:flex-row mx-auto px-6 lg:px-0 lg:gap-32">
     <div class="lg:w-2/3 mt-12">
-        <img class="lg:max-w-2xl mb-12" src="/static/img/logos/kjb-logo-trans.png" alt="logo newsletter">
+        <img class="hidden lg:block lg:max-w-2xl mb-12" src="/static/img/logos/kjb-logo-trans.png"
+            alt="logo newsletter">
+        {% include "../_includes/partials/kjb-info.html" %}
         {% set postslist = collections.kjb %}
 
         {% for post in postslist %}
@@ -43,7 +45,8 @@
         {% endfor %}
     </div>
     <div class="lg:w-96 mt-12">
-        {% include "../_includes/partials/kjb-download.html" %}
+        {% set subnav = subnavkjb %}
+        {% include "../_includes/partials/subnav.html" %}
     </div>
 
 </div>

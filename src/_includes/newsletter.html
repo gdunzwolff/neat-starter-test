@@ -3,7 +3,7 @@
 {% extends "default.html" %}
 {% block content %}
 
-<div class="container flex flex-row mx-auto p-6 lg:max-w-4xl ">
+<div class="container flex flex-col lg:flex-row mx-auto px-6 lg:px-0 lg:gap-16">
     <div class="flex-col">
         <img class="lg:max-w-3xl" src="/static/img/logos/newsletter-logo.png" alt="logo newsletter">
         <article
@@ -11,7 +11,7 @@
             {{ content | safe }}</article>
     </div>
 
-    <aside class=" hidden lg:block mt-12">
+    <aside class=" hidden lg:block lg:w-1/5 mt-12">
         <h3 class=" font-bold mb-4">
             Bislang erschienene Ausgaben
         </h3>

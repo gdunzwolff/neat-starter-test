@@ -1,0 +1,10 @@
+label: "Kleist-Jahrbuch"
+name: "kjb"
+image: "/static/img/logos/logo-kjb-cover-sm.png"
+navitems:
+  - text: "Liste Kleist-Jahrbücher"
+    url: /kjb/
+  - text: Einreichung von Beiträgen
+    url: /kjb-beitragseinreichung/
+  - text: Download Jahrbücher
+    url: /kjb-downloads/

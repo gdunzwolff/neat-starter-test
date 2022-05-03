@@ -5,5 +5,6 @@
 <!-- Hier wird die Seitennavigation eingefügt -->
 
 {% block aside %}
-{% include "../_includes/partials/navigationpreis.html" %}
+{% set subnav = subnavkleistpreis %}
+{% include "../_includes/partials/subnav.html" %}
 {% endblock %}

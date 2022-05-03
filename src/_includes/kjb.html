@@ -11,8 +11,9 @@
     </div>
 
     <aside class="  lg:block lg:w-80 mt-8">
-        {% include "../_includes/partials/kjb-info.html" %}
-        <div class="hidden lg:block">
+        {% set subnav = subnavkjb %}
+        {% include "../_includes/partials/subnav.html" %}
+        <!--<div class="hidden lg:block">
             <h3 class=" font-bold mb-4">
                 Die letzten Ausgaben
             </h3>
@@ -31,7 +32,7 @@
                 </li>
                 {% endfor %}
             </ul>
-        </div>
+        </div>-->
     </aside>
 
 </div>

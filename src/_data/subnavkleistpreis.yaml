@@ -1,0 +1,12 @@
+label: "Kleist-Preis"
+name: "kleistpreis"
+image: "/static/img/logos/logo-kleist-preis-crop.png"
+navitems:
+  - text: "Preisverleihungen: Reden - Berichte"
+    url: /kleist-preis/
+  - text: Bisherige Preisträger:innen
+    url: /kleist-preistraegerinnen/
+  - text: Statut Kleist-Preis
+    url: /statut-kleist-preis/
+  - text: Geschichte Kleist-Preis
+    url: /geschichte-kleist-preis/
