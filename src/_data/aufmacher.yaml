@@ -1,40 +1,52 @@
 heros:
+  - rubrik: Online-Vortrag
+    titel: "Elaine Chen: Unwillkommene Gäste bei Kleist und Stefan Zweig: Die
+      Politik des Gastrechts in ›Die Verlobung in St. Domingo‹ und ›Der
+      Amokläufer‹ – Mittwoch, 15. Juni 2022, 19 Uhr"
+    bild: /static/img/events/elaine-chen.png
+    bildunterschrift: null
+    bild2: null
+    url: /veranstaltungen/22-06-15-vortrag-chen/
+    text: Elaine Chen promoviert am Department für Germanic Languages and
+      Literatures der Harvard University. 2020 erwarb sie mit einer
+      Magisterarbeit zur Kleistrezeption von Thomas Mann und Stefan Zweig einen
+      M.A. von der California State University, Long Beach; eine Aufsatzfassung
+      dieser Arbeit wurde 2021 von der Kleist-Gesellschaft mit dem ›Preis für
+      den besten studentischen Aufsatz‹ über Texte Heinrich von Kleists
+      ausgezeichnet.
+    spalten: 1
   - rubrik: Kleist-Preis
     titel: Paul Ingendaay verleiht den Kleist-Preis 2022 an Esther Kinsky
     bild: /static/img/kleist-preis/2022/Kinsky_Esther_201(c)Heike Steinweg_SV.jpg
     bildunterschrift: © Heike Steinweg
     bild2: /static/img/logos/logo-kleist-preis-crop.png
     url: /kleist-preise/kleist-preis-2022/
-    text:
-      Der Kleist-Preis des Jahres 2022 geht an die 1956 im Rheinland geborene
+    text: Der Kleist-Preis des Jahres 2022 geht an die 1956 im Rheinland geborene
       Schriftstellerin und Übersetzerin Esther Kinsky. Die Verleihung soll am
       27. November während einer Matinée im Deutschen Theater erfolgen.
-    spalten: 1
-  - rubrik: Online-Vortrag
-    titel: "Elaine Chen: Unwillkommene Gäste bei Kleist und Stefan Zweig: Die Politik des Gastrechts in ›Die Verlobung in St. Domingo‹ und ›Der Amokläufer‹ – Mittwoch, 15. Juni 2022, 19 Uhr"
-    bild: /static/img/events/elaine-chen.png
-    bildunterschrift: null
-    bild2:
-    url: /veranstaltungen/22-06-15-vortrag-chen/
-    text: "Elaine Chen promoviert am Department für Germanic Languages and Literatures der Harvard University. 2020 erwarb sie mit einer Magisterarbeit zur Kleistrezeption von Thomas Mann und Stefan Zweig einen M.A. von der California State University, Long Beach; eine Aufsatzfassung dieser Arbeit wurde 2021 von der Kleist-Gesellschaft mit dem ›Preis für den besten studentischen Aufsatz‹ über Texte Heinrich von Kleists ausgezeichnet."
     spalten: 1
   - rubrik: Newsletter
     titel: Erste Ausgabe. 12. April 2022
     bild: /static/img/logos/newsletter-logo.png
     bildunterschrift: null
-    bild2:
+    bild2: null
     url: /newsletters/newsletter-2022-1/
-    text: Der neue HvKG-Newsletter – Begrüßung Präsidentin – Kleist-Preis 2022 – Gastvorträge online von Prof. Dr. Ricarda Schmidt und Elaine Chen – Studentischer Aufsatzwettbewerb 2022 Ankündigung – (Mein Kleist) Günter Dunz-Wolff zu Kleists ›Gebet des Zoroaster‹ – (Fundstück) Burkhard Wolter über ersteigerten Wandteller mit Kleistbezug – (Erlesenes) Anne Fleig über Emine Sevgi Özdamara ›Ein von Schatten begrenzter Raum‹ – Kurzvorstellung des neu gewählten Vorstands
-    spalten:
+    text: Der neue HvKG-Newsletter – Begrüßung Präsidentin – Kleist-Preis 2022 –
+      Gastvorträge online von Prof. Dr. Ricarda Schmidt und Elaine Chen –
+      Studentischer Aufsatzwettbewerb 2022 Ankündigung – (Mein Kleist)
+      Günter Dunz-Wolff zu Kleists ›Gebet des Zoroaster‹ – (Fundstück)
+      Burkhard Wolter über ersteigerten Wandteller mit Kleistbezug – (Erlesenes)
+      Anne Fleig über Emine Sevgi Özdamara ›Ein von Schatten begrenzter Raum‹ –
+      Kurzvorstellung des neu gewählten Vorstands
+    spalten: null
   - rubrik: Aufsatzwettbewerb
     titel: Preis für den besten studentischen Aufsatz 2022 über Texte
       Heinrich von Kleists
     bild: /static/img/logos/aufsatzwettbewerb-transparent.png
     bildunterschrift: null
-    bild2:
+    bild2: null
     url: /
-    text:
-      Die Heinrich von Kleist-Gesellschaft lobt 2022 erneut einen „Preis für den
+    text: Die Heinrich von Kleist-Gesellschaft lobt 2022 erneut einen „Preis für den
       besten studentischen Kleist-Aufsatz“ aus. Eingereicht werden können
       literaturwissenschaftliche Beiträge über Heinrich von Kleists Texte.
       Weitere Einschränkungen in Bezug auf Thema, Text- und Kontextauswahl oder
@@ -42,26 +54,30 @@ heros:
       Einzige Bedingung ist, dass die Verfasserinnen und Verfasser Studierende
       sind (oder Doktorandinnen und Doktoranden in der Anfangsphase ihrer
       Promotion).
-    spalten:
+    spalten: null
   - rubrik: Kleist-Nachwuchs-Netzwerk
     titel: Über das Netzwerk
     bild: /static/img/logos/KNN-Logo.png
     bildunterschrift: null
-    bild2:
+    bild2: null
     url: /
-    text: Das Kleist-Nachwuchs-Netzwerk ist eine Initiative, die sich im November 2018 gegründet hat und die insbesondere junge Kleist-Forscher:innen und -Interessent:innen zusammenbringen möchte. Ziel des Netzwerkes ist es, ein Forum des offenen Austauschs für den Nachwuchs zu initiieren und zu fördern. Dabei soll ein gemeinsamer Verteiler den Informationsaustausch erleichtern.
-    spalten:
+    text: Das Kleist-Nachwuchs-Netzwerk ist eine Initiative, die sich im November
+      2018 gegründet hat und die insbesondere junge Kleist-Forscher:innen und
+      -Interessent:innen zusammenbringen möchte. Ziel des Netzwerkes ist es, ein
+      Forum des offenen Austauschs für den Nachwuchs zu initiieren und zu
+      fördern. Dabei soll ein gemeinsamer Verteiler den Informationsaustausch
+      erleichtern.
+    spalten: null
   - rubrik: Kleist-Jahrbuch
     titel: Das Kleist-Jahrbuch 2021 ist erschienen
     bild: /static/img/logos/kjb-logo-trans.png
     bildunterschrift: null
-    bild2:
+    bild2: null
     url: /kjbs/kleist-jahrbuch-2021/
-    text:
-      Das Kleist-Jahrbuch 2021 enthält neben Beiträgen zur ›Politik des Rechts
+    text: Das Kleist-Jahrbuch 2021 enthält neben Beiträgen zur ›Politik des Rechts
       im Werk Heinrich von Kleists‹ von Bernd Fischer, Antonia Eder, David Pan,
       Bernhard Greiner, Johannes F. Lehmann, Tim Mehigan und Christian Moser
       weitere Abhandlungen von Rüdiger Görner, Andreas Moser, Patrick Fortmann
       und Tobias Krüger. Rezensionen wissenschaftlicher Neuerscheinungen
       beschließen den Band.
-    spalten:
+    spalten: null
