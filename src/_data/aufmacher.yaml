@@ -28,7 +28,7 @@ heros:
     spalten: 1
   - rubrik: Newsletter
     titel: Erste Ausgabe. 12. April 2022
-    bild: /static/img/logos/newsletter-logo.png
+    bild: /static/img/logos/logo-abendletter-alter.png
     bildunterschrift: null
     bild2: null
     url: /newsletters/newsletter-2022-1/
@@ -43,7 +43,7 @@ heros:
   - rubrik: Aufsatzwettbewerb
     titel: Preis für den besten studentischen Aufsatz 2022 über Texte
       Heinrich von Kleists
-    bild: /static/img/logos/aufsatzwettbewerb-transparent.png
+    bild: /static/img/logos/logo-aufsatz-770.png
     bildunterschrift: null
     bild2: null
     url: /
@@ -59,7 +59,7 @@ heros:
     spalten: null
   - rubrik: Kleist-Nachwuchs-Netzwerk
     titel: Über das Netzwerk
-    bild: /static/img/logos/KNN-Logo.png
+    bild: /static/img/logos/logo-nachwuchs-770.png
     bildunterschrift: null
     bild2: null
     url: /
@@ -73,9 +73,9 @@ heros:
     spalten: null
   - rubrik: Kleist-Jahrbuch
     titel: Das Kleist-Jahrbuch 2021 ist erschienen
-    bild: /static/img/logos/kjb-logo-trans.png
+    bild: /static/img/logos/logo-kjb-cover.png
     bildunterschrift: null
-    bild2: null
+    bild2: /static/img/logos/logo-jahrbuch-770.png
     url: /kjbs/kleist-jahrbuch-2021/
     text:
       Das Kleist-Jahrbuch 2021 enthält neben Beiträgen zur ›Politik des Rechts
