@@ -7,7 +7,7 @@ title: Beitritt, Mitgliedschaft
 
 Danke für Ihr Interesse an einer Mitgliedschaft in der Heinrich-von-Kleist-Gesellschaft. Wir sind eine internationale Gesellschaft mit Mitgliedern aus allen fünf Kontinenten.
 
-Als Mitglied haben Sie verschiedene Vorteile:
+Als Mitglied haben Sie viele Vorteile:
 - Sie erhalten zeitnah Ihre Einladung zur Teilnahme an der Verleihung des Kleist-Preises (feierliche Inszenierung am Deutschen Theater Berlin). Die Teilnahme ist für Mitglieder kostenlos.
 - Ihnen wird unser wissenschaftliches Kleist-Jahrbuch kostenlos nach Erscheinen zugesandt.
 - Die Teilnahme an Veranstaltungen und Jahrestagungen unserer Gesellschaft ist ebenfalls kostenlos.
@@ -16,7 +16,7 @@ Als Mitglied haben Sie verschiedene Vorteile:
 
 Wir würden uns freuen, Sie als Mitglied begrüßen zu dürfen. Durch Ihre Mitgliedschaft unterstützen Sie die Arbeit unserer Gesellschaft nachhaltig.
 
-Der Beitritt zur Heinrich-von-Kleist-Gesellschaft durch Versand der Beitrittserklärung <a href="/static/download/Beitrittserklaerung" download>Download</a> an den Schatzmeister
+Der Beitritt zur Heinrich-von-Kleist-Gesellschaft durch Versand der Beitrittserklärung (<a href="/static/download/Beitrittserklaerung" download>Download des Formulars</a>) an den Schatzmeister
 
 Günter Dunz-Wolff\
 Schatzmeister HvKG\
