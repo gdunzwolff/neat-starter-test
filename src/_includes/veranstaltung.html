@@ -9,7 +9,10 @@
 {% if eventtyp == "Online-Vortrag" %}
 {% include "../_includes/partials/vortragsreihe.html" %}
 {% elif eventtyp == "Internationale Jahrestagung" %}
-{% include "../_includes/partials/jahrestagung.html" %}
+<div>
+    {% include "../_includes/partials/jahrestagung.html" %}
+    {% include "../_includes/jahrestagungen-past.html" %}
+</div>
 {% elif eventtyp == "Kleist-Preis" %}
 {% include "../_includes/partials/info-kleistpreis.html" %}
 {% endif %}

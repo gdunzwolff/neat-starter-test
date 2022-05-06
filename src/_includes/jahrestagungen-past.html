@@ -1,0 +1,31 @@
+{% set headline = "Die letzten Jahrestagungen" %}
+{% extends "aside.html" %}
+{% block aside %}
+
+<div>
+    {% set eventslist = collections.pastEvents %}
+    <ul class="list-none">
+        {% for post in eventslist | reverse %}
+        <li class="nav__item text-base text-gray-500 mb-2 hover:text-kleistBlauGreen hover:underline">
+            {% if post.data.eventtyp == "Internationale Jahrestagung" %}
+            <a class="" href="{{ post.url | url }}">
+                <h2 class="text-base font-bold text-gray-900 mb-0">
+                    {% if post.data.datumklartext %}
+                    {{ post.data.datumklartext }}
+                    {% endif %}
+                </h2>
+                <p>
+                    <i>{{ post.data.title }}</i><br />
+                    {{post.data.eventtyp}}
+                    {% if post.data.referentin %}
+                    von <b>{{post.data.referentin}}</b> {% endif %}
+                </p>
+            </a>
+            {% else %}
+            <!-- kein ergebnis -->
+            {% endif %}
+        </li>
+        {% endfor %}
+    </ul>
+</div>
+{% endblock %}

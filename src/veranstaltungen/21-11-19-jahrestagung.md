@@ -13,9 +13,12 @@ title: Um einen Kleist von außen bittend. Zur internationalen Kleist-Rezeption
 ort: Seminaris Campus Hotel Berlin, Takustraße 39, 14195 Berlin
 ---
 
-### {{eventtyp}}
+#### {{eventtyp}}
 <img class=" w-full lg:w-2/3" src="/static/img/events/flyer-jahrestagung-2021-cover.png"></img>
 ### _{{title}}_
+{% if tagungsorganisation %}
+Tagungsorganisation: *{{tagungsorganisation}}*
+{% endif %}
 ### {{datumklartext}}
 {% if referentin %}
 *{{referentin}}* / {{ institution }}
@@ -58,4 +61,4 @@ Kenncode: {{kenncode}}
 11.20|Shengzhou Lu (Nanjing): Zu Feng Zhis Rezeption von Kleist
 14.00|Mitgliederversammlung der Heinrich-von-Kleist-Gesellschaft
 
-Download des <a class="" href="/static/download/kleist_von_außen_Flyer.pdf" download>Tagungsflyer</a>.
+Download des <a class="no-underline" href="/static/download/kleist_von_außen_Flyer.pdf" download>Tagungsflyer</a>.

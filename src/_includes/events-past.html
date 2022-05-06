@@ -4,7 +4,7 @@
 
 <div>
     {% set eventslist = collections.pastEvents %}
-    <ul class="list-none hover:list-disc">
+    <ul class="list-none">
         {% for post in eventslist | reverse %}
         <li class="nav__item text-base text-gray-500 mb-2 hover:text-kleistBlauGreen hover:underline">
             {% if post.data.eventtyp == "Online-Vortrag" or post.data.eventtyp == "Vortrag" %}
@@ -22,7 +22,7 @@
                 </p>
             </a>
             {% elif post.data.eventtyp == "Internationale Jahrestagung" %}
-            <a class="" href="{{ post.url | url }}">
+            <!-- <a class="" href="{{ post.url | url }}">
                 <h2 class="text-base font-bold text-gray-900 mb-0">
                     {% if post.data.datumklartext %}
                     {{ post.data.datumklartext }}
@@ -32,7 +32,7 @@
                     <b>{{post.data.eventtyp}}</b> <br />
                     <i>{{ post.data.title }}</i>
                 </p>
-            </a>
+            </a> -->
             {% elif post.data.eventtyp == "Kleist-Preis" %}
             <a class="" href="{{ post.url | url }}">
                 <h2 class="text-base font-bold text-gray-900 mb-0">
