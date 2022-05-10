@@ -1,0 +1,12 @@
+{% set title = "Studentischer Aufsatzwettbewerb" %}
+{% extends "md.html" %}
+
+<!-- Hier wird die Seitennavigation eingefügt -->
+
+{% block attached %}
+{% include "partials/essays-past.html" %}
+{% endblock %}
+
+{% block aside %}
+{% include "partials/aside-aufsatzwettbewerb.html" %}
+{% endblock %}

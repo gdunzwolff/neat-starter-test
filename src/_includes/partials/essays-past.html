@@ -1,0 +1,22 @@
+<hr />
+
+<h3>
+    Die bisherigen Preisträger:innen
+</h3>
+
+{% set essaylist = collections.essay %}
+
+{% for item in essaylist | reverse %}
+<div class="grid grid-cols-4 gap-4">
+    <div class="col-span-1">
+        {% if item.data.foto %}
+        <img src="{{item.data.foto}}" alt="foto von {{item.data.autor}}">
+        {% else %}
+        <img src="/static/img/essay/dummy.png" alt="foto von {{item.data.autor}}">
+        {% endif %}
+    </div>
+    <div class="col-span-3">
+        {{ item.templateContent | safe }}
+    </div>
+</div>
+{% endfor %}

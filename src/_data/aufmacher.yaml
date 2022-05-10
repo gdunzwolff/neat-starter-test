@@ -28,7 +28,7 @@ heros:
     spalten: 1
   - rubrik: Newsletter
     titel: Erste Ausgabe. 12. April 2022
-    bild: /static/img/logos/logo-abendletter-alter.png
+    bild: /static/img/logos/logo-abendletter-var-1.png
     bildunterschrift: null
     bild2: null
     url: /newsletters/newsletter-2022-1/
@@ -46,7 +46,7 @@ heros:
     bild: /static/img/logos/logo-aufsatz-770.png
     bildunterschrift: null
     bild2: null
-    url: /
+    url: /aufsatzwettbewerb/
     text:
       Die Heinrich von Kleist-Gesellschaft lobt 2022 erneut einen „Preis für den
       besten studentischen Kleist-Aufsatz“ aus. Eingereicht werden können
@@ -62,7 +62,7 @@ heros:
     bild: /static/img/logos/logo-nachwuchs-770.png
     bildunterschrift: null
     bild2: null
-    url: /
+    url: /nachwuchs-netzwerk/
     text:
       Das Kleist-Nachwuchs-Netzwerk ist eine Initiative, die sich im November
       2018 gegründet hat und die insbesondere junge Kleist-Forscher:innen und
